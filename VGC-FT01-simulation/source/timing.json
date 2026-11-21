@@ -1,0 +1,25 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 240,
+  "scenes": {
+    "hook": { "from": 0, "to": 72 },
+    "explain": { "from": 72, "to": 144 },
+    "takeaway": { "from": 144, "to": 240 }
+  },
+  "cues": {
+    "hookText": 6,
+    "flatline": 34,
+    "cut1": 72,
+    "chip1": 76,
+    "chip2": 90,
+    "statement": 106,
+    "cut2": 144,
+    "humanLine": 146,
+    "bubble1": 141,
+    "cta": 160,
+    "bubble2": 168,
+    "end": 240
+  }
+}
