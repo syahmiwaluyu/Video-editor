@@ -1,0 +1,622 @@
+{
+ "footageEndSec": 495.533,
+ "turns": [
+  [
+   0.0,
+   "K"
+  ],
+  [
+   15.133,
+   "F"
+  ],
+  [
+   21.4,
+   "K"
+  ],
+  [
+   33.467,
+   "F"
+  ],
+  [
+   40.267,
+   "K"
+  ],
+  [
+   47.5,
+   "F"
+  ],
+  [
+   59.4,
+   "K"
+  ],
+  [
+   68.3,
+   "F"
+  ],
+  [
+   74.867,
+   "K"
+  ],
+  [
+   94.4,
+   "F"
+  ],
+  [
+   101.833,
+   "K"
+  ],
+  [
+   117.033,
+   "F"
+  ],
+  [
+   127.467,
+   "K"
+  ],
+  [
+   135.367,
+   "F"
+  ],
+  [
+   146.1,
+   "K"
+  ],
+  [
+   170.8,
+   "F"
+  ],
+  [
+   180.533,
+   "K"
+  ],
+  [
+   199.033,
+   "F"
+  ],
+  [
+   203.913,
+   "K"
+  ],
+  [
+   224.3,
+   "F"
+  ],
+  [
+   239.333,
+   "K"
+  ],
+  [
+   247.233,
+   "F"
+  ],
+  [
+   257.133,
+   "K"
+  ],
+  [
+   273.733,
+   "F"
+  ],
+  [
+   282.933,
+   "K"
+  ],
+  [
+   300.7,
+   "F"
+  ],
+  [
+   306.5,
+   "K"
+  ],
+  [
+   329.1,
+   "F"
+  ],
+  [
+   331.867,
+   "K"
+  ],
+  [
+   342.367,
+   "F"
+  ],
+  [
+   347.733,
+   "K"
+  ],
+  [
+   372.133,
+   "F"
+  ],
+  [
+   376.5,
+   "K"
+  ],
+  [
+   388.2,
+   "F"
+  ],
+  [
+   394.3,
+   "K"
+  ],
+  [
+   428.367,
+   "F"
+  ],
+  [
+   434.333,
+   "K"
+  ],
+  [
+   454.367,
+   "F"
+  ],
+  [
+   463.933,
+   "K"
+  ],
+  [
+   478.233,
+   "F"
+  ],
+  [
+   481.933,
+   "K"
+  ],
+  [
+   487.733,
+   "F"
+  ],
+  [
+   489.933,
+   "K"
+  ],
+  [
+   491.933,
+   "F"
+  ]
+ ],
+ "hook": {
+  "s": 0,
+  "e": 5.4,
+  "lines": [
+   "Pesakit tak dapat diselamatkan.",
+   "Bagaimana pula petugasnya?"
+  ]
+ },
+ "scenes": [
+  {
+   "s": 0.0,
+   "e": 10.133,
+   "mode": "two"
+  },
+  {
+   "s": 10.133,
+   "e": 15.133,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 15.133,
+   "e": 21.4,
+   "mode": "full"
+  },
+  {
+   "s": 21.4,
+   "e": 33.0,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 33.0,
+   "e": 40.267,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 40.267,
+   "e": 46.8667,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 46.8667,
+   "e": 59.4,
+   "mode": "two"
+  },
+  {
+   "s": 59.4,
+   "e": 68.3,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 68.3,
+   "e": 81.633,
+   "mode": "two"
+  },
+  {
+   "s": 81.633,
+   "e": 93.6333,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 93.6333,
+   "e": 100.6667,
+   "mode": "full"
+  },
+  {
+   "s": 100.6667,
+   "e": 117.033,
+   "mode": "two"
+  },
+  {
+   "s": 117.033,
+   "e": 126.767,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 126.767,
+   "e": 135.367,
+   "mode": "two"
+  },
+  {
+   "s": 135.367,
+   "e": 145.367,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 145.367,
+   "e": 157.5,
+   "mode": "two"
+  },
+  {
+   "s": 157.5,
+   "e": 167.5,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 167.5,
+   "e": 170.8,
+   "mode": "two"
+  },
+  {
+   "s": 170.8,
+   "e": 180.5,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 180.5,
+   "e": 199.033,
+   "mode": "two"
+  },
+  {
+   "s": 199.033,
+   "e": 203.913,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 203.913,
+   "e": 213.313,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 213.313,
+   "e": 224.3,
+   "mode": "two"
+  },
+  {
+   "s": 224.3,
+   "e": 234.033,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 234.033,
+   "e": 247.1667,
+   "mode": "two"
+  },
+  {
+   "s": 247.1667,
+   "e": 261.933,
+   "mode": "full"
+  },
+  {
+   "s": 261.933,
+   "e": 271.933,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 271.933,
+   "e": 282.933,
+   "mode": "two"
+  },
+  {
+   "s": 282.933,
+   "e": 306.5,
+   "mode": "full"
+  },
+  {
+   "s": 306.5,
+   "e": 316.5,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 316.5,
+   "e": 331.7667,
+   "mode": "two"
+  },
+  {
+   "s": 331.7667,
+   "e": 341.867,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 341.867,
+   "e": 347.733,
+   "mode": "two"
+  },
+  {
+   "s": 347.733,
+   "e": 357.733,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 357.733,
+   "e": 376.5,
+   "mode": "two"
+  },
+  {
+   "s": 376.5,
+   "e": 386.5,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 386.5,
+   "e": 394.3,
+   "mode": "two"
+  },
+  {
+   "s": 394.3,
+   "e": 404.3,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 404.3,
+   "e": 428.3667,
+   "mode": "two"
+  },
+  {
+   "s": 428.3667,
+   "e": 434.333,
+   "mode": "full"
+  },
+  {
+   "s": 434.333,
+   "e": 442.1,
+   "mode": "two"
+  },
+  {
+   "s": 442.1,
+   "e": 454.367,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 454.367,
+   "e": 463.9,
+   "mode": "full"
+  },
+  {
+   "s": 463.9,
+   "e": 478.233,
+   "mode": "two"
+  },
+  {
+   "s": 478.233,
+   "e": 481.933,
+   "mode": "full"
+  },
+  {
+   "s": 481.933,
+   "e": 493.233,
+   "mode": "two"
+  }
+ ],
+ "notes": [
+  {
+   "s": 10.133,
+   "e": 15.133,
+   "text": "Soalan terbuka"
+  },
+  {
+   "s": 21.4,
+   "e": 31.333,
+   "text": "Tiada paksaan"
+  },
+  {
+   "s": 33.467,
+   "e": 40.267,
+   "text": "Terus terbayang"
+  },
+  {
+   "s": 40.267,
+   "e": 47.5,
+   "text": "Refleksi"
+  },
+  {
+   "s": 59.4,
+   "e": 68.3,
+   "text": "Akui perasaannya"
+  },
+  {
+   "s": 81.633,
+   "e": 91.633,
+   "text": "Tanpa menghakimi"
+  },
+  {
+   "s": 117.033,
+   "e": 126.767,
+   "text": "Bunyi monitor"
+  },
+  {
+   "s": 135.367,
+   "e": 145.367,
+   "text": "Tidur & makan terganggu"
+  },
+  {
+   "s": 157.5,
+   "e": 167.5,
+   "text": "Tertekan ≠ lemah"
+  },
+  {
+   "s": 170.8,
+   "e": 180.5,
+   "text": "Rasa keseorangan"
+  },
+  {
+   "s": 199.033,
+   "e": 204.033,
+   "text": "Rasa bersalah"
+  },
+  {
+   "s": 203.913,
+   "e": 213.313,
+   "text": "Manusia dahulu"
+  },
+  {
+   "s": 224.3,
+   "e": 234.033,
+   "text": "Takut kembali bertugas"
+  },
+  {
+   "s": 261.933,
+   "e": 271.933,
+   "text": "Tanya, jangan andai"
+  },
+  {
+   "s": 306.5,
+   "e": 316.5,
+   "text": "Minta bantuan ≠ tidak cekap"
+  },
+  {
+   "s": 331.867,
+   "e": 341.867,
+   "text": "Mula dengan asas"
+  },
+  {
+   "s": 347.733,
+   "e": 357.733,
+   "text": "Tidak perlu bersendirian"
+  },
+  {
+   "s": 376.5,
+   "e": 386.5,
+   "text": "Langkah demi langkah"
+  },
+  {
+   "s": 394.3,
+   "e": 404.3,
+   "text": "Tak perlu padam fikiran"
+  },
+  {
+   "s": 442.1,
+   "e": 452.1,
+   "text": "Petugas juga perlukan jagaan"
+  }
+ ],
+ "chapters": [
+  {
+   "s": 5.533,
+   "e": 11.033,
+   "n": "01",
+   "title": "Ruang selamat"
+  },
+  {
+   "s": 33.467,
+   "e": 38.967,
+   "n": "02",
+   "title": "Apa yang dirasai"
+  },
+  {
+   "s": 135.367,
+   "e": 140.867,
+   "n": "03",
+   "title": "Kesan pada badan"
+  },
+  {
+   "s": 199.033,
+   "e": 204.533,
+   "n": "04",
+   "title": "Rasa bersalah & takut"
+  },
+  {
+   "s": 329.1,
+   "e": 333.867,
+   "n": "05",
+   "title": "Bantuan praktikal"
+  },
+  {
+   "s": 388.2,
+   "e": 393.7,
+   "n": "06",
+   "title": "Langkah seterusnya"
+  }
+ ],
+ "end": {
+  "s": 493.233,
+  "hold": 4.6,
+  "title": [
+   "Petugas kesihatan",
+   "juga perlukan jagaan."
+  ],
+  "sub": "Mencari sokongan bukan tanda tidak cekap."
+ },
+ "caption_fixes": {
+  "Everything is fine.": "",
+  "Hoi Han": "Farhan",
+  "for Han,": "Farhan,",
+  "someone one just": "someone just",
+  "I really": "I really need that support.",
+  "I'm almost all in sick tomorrow": "I almost call in sick tomorrow",
+  "like a writer": "lighter",
+  "Farhan. Well,": "Farhan.",
+  "patient. Well,": "patient.",
+  "well you have to understand": "Well, you have to understand",
+  "for your patients sometimes we forget that we also need care": "for your patients. Sometimes we forget that we also need care.",
+  "you deserve the same compassion as much as how much you give to your patients": "You deserve the same compassion as much as how much you give to your patients.",
+  "thank you I didn't realize": "Thank you. I didn't realize",
+  "well -being": "well-being",
+  " -up": "-up"
+ },
+ "jumps": [
+  4.0,
+  74.8667,
+  145.8333,
+  169.4667,
+  204.6333,
+  275.4667,
+  300.1667,
+  372.1333,
+  387.3,
+  452.8333
+ ],
+ "footageFile": "footage_cut.mp4",
+ "voiceFile": "voice_clean_cut.wav",
+ "version": "v02"
+}

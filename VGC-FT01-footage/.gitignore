@@ -5,3 +5,4 @@ out/*.wav
 out/video_muted.mp4
 *_master.mp4
 work/*.log
+source/public/footage_cut.mp4

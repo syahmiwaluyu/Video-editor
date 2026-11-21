@@ -40,7 +40,7 @@ def onepole_lp(x, fc):
     return lfilter([1 - a], [1, -a], x)
 
 N = int(round(T["durationSec"] * SR))
-voice = read_mono(ROOT.parent / "work" / "voice_clean.wav")
+voice = read_mono(ROOT.parent / "work" / T.get("voiceFile", "voice_clean.wav"))
 voice = np.pad(voice, (0, max(0, N - len(voice))))[:N]
 
 # ---------------- music ----------------

@@ -1,6 +1,33 @@
-# VGC-FT01 — Edit Footage (Fast Track) · PREVIEW v01
+# VGC-FT01 — Edit Footage (Fast Track) · PREVIEW v02 (pause trim)
 
-Status: **preview, waiting for approval.** Not a final export. No cuts applied yet.
+Status: **preview v02, waiting for approval.** Not a final export.
+
+## v02 — what changed (approved request: "versi potong jeda")
+- Only **silent** stretches between lines were shortened. Final length **497.8 s (8:18)** vs 518.0 s in v01.
+- Why not ~479 s as proposed in v01: the v01 proposal used ASR word timestamps. Checking the audio energy showed 16 of
+  those 38 "pauses" contain 'um', 'hmm', breaths or short words (e.g. "right" ≈494 s) that the ASR timed loosely.
+  Cutting them would have removed vocal sound, which was not approved. v02 therefore derives cuts from the audio
+  (`source/scripts/derive_silence_cuts.py`): sound above −34 dBFS is protected with a 0.12 s guard and each silent run
+  is shortened to 0.96 s → about 1.2 s from sound to sound. 25 cuts, 20.17 s removed (`out/cut_list_v02.csv`).
+- Verified: removed ranges max RMS −43 dBFS; words around all 25 joins re-transcribed before vs after the cut — same
+  words (differences only at the edges of the comparison windows); joins have 5 ms fades (max sample step 0.0004).
+- Picture and sound are cut on the same whole frames (30 fps) from the same keep list (`work/keep_frames.json`).
+  Scene changes were moved onto a nearby join where possible; the 10 joins that still fall inside a scene get an
+  alternating 1.0× / 1.07× punch-in so they read as reframes instead of skips.
+- To reach 480 s, **fillers would have to go** (≈16 'um/hmm'/breaths inside long pauses) — only with your OK.
+- v01 (uncut, 518 s) is kept: `VGC-FT01_footage_preview_v01.mp4`.
+
+### v02 checks actually performed
+- `VGC-FT01_footage_preview_v02.mp4` (review copy, 90 MB): 1920×1080, 30 fps, BT.709 TV, 497.8 s,
+  −14.1 LUFS, peak −2.8 dBFS. Master `..._v02_master.mp4` (CRF 16, local only): −14.0 LUFS, peak −1.4 dBFS.
+- Picture/sound: cut voice track vs final audio cross-correlation 5 ms lag at 40/250/460 s (AAC priming).
+- Contact sheet `qc/contact_sheet_v02.jpg`; frames −1/0/+1/+3 at all 56 scene changes + jumps
+  (`qc/cut_strips_v02.jpg`): no dark/black frames detected, no scene shorter than 2.5 s.
+- Re-transcribed final audio at 0–30 s, 200–230 s, 460–494 s: same wording as the source. This pass heard a few
+  things differently from the subtitles ("Just **need** a minute" ≈17 s; "you know, like" before "confused" ≈213 s;
+  "right?" ≈478 s) — ASR disagreement, please confirm by ear.
+- Not done: human listening; full re-transcription of the whole mix.
+
 
 ## Source
 - `VID20261120154047.mp4` from Google Drive (2,595,744,183 bytes, matches Drive metadata). Downloaded to
@@ -52,12 +79,16 @@ machine translation, not the spoken words).
 - Ducking driven by the voice envelope: music −14 dB while speaking (measured median 21.5 dB under the voice),
   SFX −3 dB. Master: two-pass loudnorm −14 LUFS, true-peak target −1.5 dBTP, then limiter.
 
-## Cut proposal to reach 480 s (NOT applied — needs your approval)
+## v01 cut proposal (superseded by v02 silence-only list)
 Source + end card = 518.0 s. `out/cut_proposal_v01.csv` lists **38 pauses** (source timecodes) that would be
 shortened to 1.2 s each → **≈479 s**. No words removed, order unchanged. Pauses in an emotional conversation carry
 meaning; you may want to keep some of the longest ones (e.g. 176–179 s after "…not competent", 471–474 s).
 
 ## Rebuild (from `source/`)
+v02: after the v01 steps below run `python scripts/derive_silence_cuts.py 0.96`, `python scripts/apply_cuts.py`,
+`python scripts/build_timing.py --cut`, `python scripts/make_audio.py`, `npm run render`, then
+`bash scripts/finalize.sh ../VGC-FT01_footage_preview_v02_master.mp4`. Without `--cut`, build_timing rebuilds v01.
+
 ```
 npm install
 bash scripts/prep_voice.sh /path/to/VID20261120154047.mp4

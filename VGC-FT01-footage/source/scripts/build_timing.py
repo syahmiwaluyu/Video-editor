@@ -8,8 +8,10 @@ import json, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-tr = json.load(open(ROOT.parent / "work" / "transcript.json"))
-plan = json.load(open(ROOT / "edit_plan.json"))
+import sys
+CUT = "--cut" in sys.argv   # v02: use the pause-trimmed timeline produced by apply_cuts.py
+tr = json.load(open(ROOT.parent / "work" / ("transcript_cut.json" if CUT else "transcript.json")))
+plan = json.load(open(ROOT / ("edit_plan_cut.json" if CUT else "edit_plan.json")))
 
 words = []
 # tail pass has phrase-level punctuation; keep order strictly by time
@@ -88,13 +90,17 @@ timing = {
     "notes": plan["notes"],
     "chapters": plan["chapters"],
     "end": {"s": plan["end"]["s"], "e": round(dur, 3), "title": plan["end"]["title"], "sub": plan["end"]["sub"]},
+    "jumps": plan.get("jumps", []),
+    "footageFile": plan.get("footageFile", "footage.mp4"),
+    "voiceFile": plan.get("voiceFile", "voice_clean.wav"),
+    "version": plan.get("version", "v01"),
 }
 json.dump(timing, open(ROOT / "timing.json", "w"), ensure_ascii=False, indent=1)
 # SRT export (original-language subtitles)
 def ts(x):
     h = int(x // 3600); m = int(x % 3600 // 60); s = x % 60
     return f"{h:02d}:{m:02d}:{int(s):02d},{int(round((s - int(s)) * 1000)):03d}"
-with open(ROOT.parent / "out" / "subtitles_v01.srt", "w") as f:
+with open(ROOT.parent / "out" / f"subtitles_{timing['version']}.srt", "w") as f:
     for i, c in enumerate(out, 1):
         f.write(f"{i}\n{ts(c['s'])} --> {ts(c['e'])}\n{c['text']}\n\n")
 print(len(out), "captions;", sum(1 for c in out if c["lowconf"]), "with low-confidence words; duration", dur)

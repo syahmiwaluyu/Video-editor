@@ -29,6 +29,8 @@ type Timing = {
   notes: Note[];
   chapters: Chapter[];
   end: { s: number; e: number; title: string[]; sub: string };
+  jumps?: number[];
+  footageFile?: string;
 };
 const T = timing as unknown as Timing;
 
@@ -66,16 +68,23 @@ const PaperBg: React.FC = () => (
 );
 
 // Shows the given source rect of the footage inside a box of size w x h (same aspect ratio).
-const Footage: React.FC<{ rect: Rect; w: number; h: number; push: number }> = ({ rect, w, h, push }) => {
+// Jump cuts left by the pause trim (v02) inside a scene: alternate framing 1.0x / 1.07x so each join reads as an
+// intentional punch-in instead of a skip.
+const punchAt = (sceneStart: number, t: number) => {
+  const k = (T.jumps ?? []).filter((j) => j > sceneStart + 1e-3 && j <= t + 1e-6).length;
+  return k % 2 === 1 ? 0.07 : 0;
+};
+
+const Footage: React.FC<{ rect: Rect; w: number; h: number; push: number; punch?: number }> = ({ rect, w, h, push, punch = 0 }) => {
   // push: 0..1 -> up to 4% slow push towards rect centre
-  const z = 1 + 0.04 * push;
+  const z = 1 + 0.04 * push + punch;
   const rw = rect.w / z, rh = rect.h / z;
   const rx = rect.x + (rect.w - rw) / 2, ry = rect.y + (rect.h - rh) / 2;
   const k = w / rw;
   return (
     <div style={{ width: w, height: h, overflow: "hidden", position: "relative", backgroundColor: "#bbb" }}>
       <OffthreadVideo
-        src={staticFile("footage.mp4")}
+        src={staticFile(T.footageFile ?? "footage.mp4")}
         muted
         style={{ position: "absolute", width: SRC_W * k, height: SRC_H * k, left: -rx * k, top: -ry * k, maxWidth: "none" }}
       />
@@ -95,8 +104,8 @@ const Tape: React.FC<{ x: number; y: number; rot: number; w?: number; seed: numb
 
 // Photo print: footage with paper border, tape, soft shadow, stop-start entrance.
 const Print: React.FC<{
-  rect: Rect; x: number; y: number; w: number; h: number; rot: number; lf: number; push: number; seed: number; from: "left" | "right" | "up";
-}> = ({ rect, x, y, w, h, rot, lf, push, seed, from }) => {
+  rect: Rect; x: number; y: number; w: number; h: number; rot: number; lf: number; push: number; seed: number; from: "left" | "right" | "up"; punch?: number;
+}> = ({ rect, x, y, w, h, rot, lf, push, seed, from, punch = 0 }) => {
   const p = stopStart(lf);
   const dx = from === "left" ? -140 * p : from === "right" ? 140 * p : 0;
   const dy = from === "up" ? -90 * p : 0;
@@ -104,7 +113,7 @@ const Print: React.FC<{
   return (
     <div style={{ position: "absolute", left: x + dx, top: y + dy, transform: `rotate(${rot + p * (from === "right" ? 2 : -2)}deg)` }}>
       <div style={{ padding: b, background: C.print, boxShadow: "0 10px 26px rgba(40,30,10,0.22), 0 2px 4px rgba(40,30,10,0.18)" }}>
-        <Footage rect={rect} w={w} h={h} push={push} />
+        <Footage rect={rect} w={w} h={h} push={push} punch={punch} />
       </div>
       <Tape x={-40} y={-18} rot={-32} seed={seed + 1} />
       <Tape x={w + b * 2 - 130} y={-18} rot={28} seed={seed + 2} />
@@ -140,7 +149,7 @@ const SceneTwo: React.FC<{ sc: Scene; t: number; lf: number; full: boolean; seed
   if (full) {
     return (
       <AbsoluteFill>
-        <Footage rect={RECT.two} w={W} h={H} push={push} />
+        <Footage rect={RECT.two} w={W} h={H} push={push} punch={punchAt(sc.s, t)} />
         {cap && (
           <div
             style={{
@@ -158,7 +167,7 @@ const SceneTwo: React.FC<{ sc: Scene; t: number; lf: number; full: boolean; seed
   const w = 1488, h = 837;
   return (
     <AbsoluteFill>
-      <Print rect={RECT.two} x={(W - w) / 2 - 16} y={30} w={w} h={h} rot={-0.6} lf={lf} push={push} seed={seed} from="up" />
+      <Print rect={RECT.two} x={(W - w) / 2 - 16} y={30} w={w} h={h} rot={-0.6} lf={lf} push={push} seed={seed} from="up" punch={punchAt(sc.s, t)} />
       {cap && (
         <div style={{ position: "absolute", left: 150, right: 150, top: 912, height: 150, display: "flex", alignItems: "flex-start", justifyContent: "center" }}>
           <CaptionText cap={cap} lf={(t - cap.s) * FPS} align="center" />
@@ -180,7 +189,7 @@ const SceneSpk: React.FC<{ sc: Scene; t: number; lf: number; seed: number }> = (
     <AbsoluteFill>
       <Print
         rect={RECT[spk]} x={left ? 150 : W - 150 - cw - 32} y={110} w={cw} h={ch}
-        rot={left ? -1.6 : 1.4} lf={lf} push={push} seed={seed} from={left ? "left" : "right"}
+        rot={left ? -1.6 : 1.4} lf={lf} push={push} seed={seed} from={left ? "left" : "right"} punch={punchAt(sc.s, t)}
       />
       {note && <NoteBlock note={note} t={t} x={colX} pointLeft={left} seed={seed} />}
       {cap && (

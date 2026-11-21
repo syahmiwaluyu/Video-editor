@@ -1,6 +1,6 @@
 {
- "durationSec": 518.0,
- "footageEndSec": 515.7,
+ "durationSec": 497.833,
+ "footageEndSec": 495.533,
  "hook": {
   "s": 0,
   "e": 5.4,
@@ -11,268 +11,253 @@
  },
  "scenes": [
   {
-   "s": 0,
-   "e": 10.6,
+   "s": 0.0,
+   "e": 10.133,
    "mode": "two"
   },
   {
-   "s": 10.6,
-   "e": 15.6,
+   "s": 10.133,
+   "e": 15.133,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 15.6,
-   "e": 23.7,
+   "s": 15.133,
+   "e": 21.4,
    "mode": "full"
   },
   {
-   "s": 23.7,
-   "e": 33.7,
+   "s": 21.4,
+   "e": 33.0,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 33.7,
-   "e": 36.3,
-   "mode": "two"
-  },
-  {
-   "s": 36.3,
-   "e": 43.1,
+   "s": 33.0,
+   "e": 40.267,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 43.1,
-   "e": 51.6,
+   "s": 40.267,
+   "e": 46.8667,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 51.6,
-   "e": 63.5,
+   "s": 46.8667,
+   "e": 59.4,
    "mode": "two"
   },
   {
-   "s": 63.5,
-   "e": 72.4,
+   "s": 59.4,
+   "e": 68.3,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 72.4,
-   "e": 86.7,
+   "s": 68.3,
+   "e": 81.633,
    "mode": "two"
   },
   {
-   "s": 86.7,
-   "e": 96.7,
+   "s": 81.633,
+   "e": 93.6333,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 96.7,
-   "e": 99.7,
-   "mode": "two"
-  },
-  {
-   "s": 99.7,
-   "e": 108.1,
+   "s": 93.6333,
+   "e": 100.6667,
    "mode": "full"
   },
   {
-   "s": 108.1,
-   "e": 123.3,
+   "s": 100.6667,
+   "e": 117.033,
    "mode": "two"
   },
   {
-   "s": 123.3,
-   "e": 133.3,
+   "s": 117.033,
+   "e": 126.767,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 133.3,
-   "e": 141.9,
+   "s": 126.767,
+   "e": 135.367,
    "mode": "two"
   },
   {
-   "s": 141.9,
-   "e": 151.9,
+   "s": 135.367,
+   "e": 145.367,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 151.9,
-   "e": 165.3,
+   "s": 145.367,
+   "e": 157.5,
    "mode": "two"
   },
   {
-   "s": 165.3,
-   "e": 175.3,
+   "s": 157.5,
+   "e": 167.5,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 175.3,
-   "e": 179.4,
+   "s": 167.5,
+   "e": 170.8,
    "mode": "two"
   },
   {
-   "s": 179.4,
-   "e": 189.4,
+   "s": 170.8,
+   "e": 180.5,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 189.4,
-   "e": 209.4,
+   "s": 180.5,
+   "e": 199.033,
    "mode": "two"
   },
   {
-   "s": 209.4,
-   "e": 214.28,
+   "s": 199.033,
+   "e": 203.913,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 214.28,
-   "e": 224.28,
+   "s": 203.913,
+   "e": 213.313,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 224.28,
-   "e": 235.8,
+   "s": 213.313,
+   "e": 224.3,
    "mode": "two"
   },
   {
-   "s": 235.8,
-   "e": 245.8,
+   "s": 224.3,
+   "e": 234.033,
    "mode": "spk",
    "spk": "F"
   },
   {
-   "s": 245.8,
-   "e": 259.3,
+   "s": 234.033,
+   "e": 247.1667,
    "mode": "two"
   },
   {
-   "s": 259.3,
-   "e": 274.0,
+   "s": 247.1667,
+   "e": 261.933,
    "mode": "full"
   },
   {
-   "s": 274.0,
-   "e": 284.0,
+   "s": 261.933,
+   "e": 271.933,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 284.0,
-   "e": 296.4,
+   "s": 271.933,
+   "e": 282.933,
    "mode": "two"
   },
   {
-   "s": 296.4,
-   "e": 320.7,
+   "s": 282.933,
+   "e": 306.5,
    "mode": "full"
   },
   {
-   "s": 320.7,
-   "e": 330.7,
+   "s": 306.5,
+   "e": 316.5,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 330.7,
-   "e": 346.8,
+   "s": 316.5,
+   "e": 331.7667,
    "mode": "two"
   },
   {
-   "s": 346.8,
-   "e": 356.8,
+   "s": 331.7667,
+   "e": 341.867,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 356.8,
-   "e": 363.0,
+   "s": 341.867,
+   "e": 347.733,
    "mode": "two"
   },
   {
-   "s": 363.0,
-   "e": 373.0,
+   "s": 347.733,
+   "e": 357.733,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 373.0,
-   "e": 392.5,
+   "s": 357.733,
+   "e": 376.5,
    "mode": "two"
   },
   {
-   "s": 392.5,
-   "e": 402.5,
+   "s": 376.5,
+   "e": 386.5,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 402.5,
-   "e": 411.6,
+   "s": 386.5,
+   "e": 394.3,
    "mode": "two"
   },
   {
-   "s": 411.6,
-   "e": 421.6,
+   "s": 394.3,
+   "e": 404.3,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 421.6,
-   "e": 446.0,
+   "s": 404.3,
+   "e": 428.3667,
    "mode": "two"
   },
   {
-   "s": 446.0,
-   "e": 452.8,
+   "s": 428.3667,
+   "e": 434.333,
    "mode": "full"
   },
   {
-   "s": 452.8,
-   "e": 460.9,
+   "s": 434.333,
+   "e": 442.1,
    "mode": "two"
   },
   {
-   "s": 460.9,
-   "e": 470.9,
+   "s": 442.1,
+   "e": 454.367,
    "mode": "spk",
    "spk": "K"
   },
   {
-   "s": 470.9,
-   "e": 473.9,
-   "mode": "two"
-  },
-  {
-   "s": 473.9,
-   "e": 484.1,
+   "s": 454.367,
+   "e": 463.9,
    "mode": "full"
   },
   {
-   "s": 484.1,
-   "e": 498.4,
+   "s": 463.9,
+   "e": 478.233,
    "mode": "two"
   },
   {
-   "s": 498.4,
-   "e": 502.1,
+   "s": 478.233,
+   "e": 481.933,
    "mode": "full"
   },
   {
-   "s": 502.1,
-   "e": 513.4,
+   "s": 481.933,
+   "e": 493.233,
    "mode": "two"
   }
  ],
@@ -286,98 +271,98 @@
   },
   {
    "s": 3.38,
-   "e": 7.72,
+   "e": 7.253,
    "text": "Thank you, Farhan, for having your time\nhere.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 7.72,
-   "e": 10.41,
+   "s": 7.253,
+   "e": 9.943,
    "text": "I know you have been through a very\ndifficult time.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 11.66,
-   "e": 13.61,
+   "s": 11.193,
+   "e": 13.143,
    "text": "So, how are you feeling today?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 15.8,
-   "e": 18.09,
+   "s": 15.333,
+   "e": 17.623,
    "text": "I'm okay. Just a minute.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 18.24,
-   "e": 21.41,
+   "s": 17.773,
+   "e": 20.943,
    "text": "Just a minute. I can stop thinking about\nthat case.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 23.92,
-   "e": 26.1,
+   "s": 21.553,
+   "e": 23.733,
    "text": "Never mind, Farhan.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 26.1,
-   "e": 30.63,
+   "s": 23.733,
+   "e": 28.263,
    "text": "Take your time. We can sit quietly here to\ndiscuss.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 30.7,
-   "e": 34.89,
+   "s": 28.333,
+   "e": 32.523,
    "text": "Or maybe you don't have to do this thing\nto me until you are ready.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 36.56,
-   "e": 38.14,
+   "s": 33.727,
+   "e": 35.307,
    "text": "Honestly, not that great.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 38.14,
-   "e": 43.13,
+   "s": 35.307,
+   "e": 40.297,
    "text": "I know these things happen, but I keep\nreplaying every step in my head.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 43.34,
-   "e": 46.67,
+   "s": 40.507,
+   "e": 43.837,
    "text": "It sounds like the event is still in your\nmind.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 47.0,
-   "e": 49.15,
+   "s": 44.167,
+   "e": 46.317,
    "text": "Even the procedure has ended.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 51.84,
-   "e": 54.71,
+   "s": 47.74,
+   "e": 50.61,
    "text": "Yes, the patient wasn't expected to die.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 55.54,
-   "e": 57.34,
+   "s": 51.44,
+   "e": 53.24,
    "text": "Everything happened so quickly.",
    "spk": "F",
    "lowconf": [
@@ -385,50 +370,50 @@
    ]
   },
   {
-   "s": 57.34,
-   "e": 58.59,
+   "s": 53.24,
+   "e": 54.49,
    "text": "We tried everything.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 59.0,
-   "e": 63.07,
+   "s": 54.9,
+   "e": 58.97,
    "text": "The whole team was resuscitating, but we\ncouldn't save the patient.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 63.76,
-   "e": 71.89,
+   "s": 59.66,
+   "e": 67.79,
    "text": "That must be incredibly difficult for you,\nsince your work is to save someone's life.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 72.66,
-   "e": 74.94,
+   "s": 68.56,
+   "e": 70.84,
    "text": "I keep wondering whether I missed\nsomething.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 74.94,
-   "e": 78.45,
+   "s": 70.84,
+   "e": 74.35,
    "text": "Maybe I should have recognised the\ndeterioration earlier.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 79.95,
-   "e": 85.3,
+   "s": 74.883,
+   "e": 80.233,
    "text": "I hear how much responsibility that you\nhave to bear.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 86.91,
-   "e": 93.33,
+   "s": 81.843,
+   "e": 88.263,
    "text": "I know I want you to know that this is a\nspace to discuss or to open up, because we",
    "spk": "K",
    "lowconf": [
@@ -436,36 +421,36 @@
    ]
   },
   {
-   "s": 93.33,
-   "e": 94.8,
+   "s": 88.263,
+   "e": 89.733,
    "text": "are not here to judge you.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 95.09,
-   "e": 98.26,
+   "s": 90.023,
+   "e": 93.193,
    "text": "So, I'm here to listen and support you.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 99.99,
-   "e": 104.87,
+   "s": 94.69,
+   "e": 99.57,
    "text": "I know we all did what we could, but I\nstill feel like I should have seen it",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 104.87,
-   "e": 105.87,
+   "s": 99.57,
+   "e": 100.57,
    "text": "coming.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 108.32,
-   "e": 112.94,
+   "s": 102.053,
+   "e": 106.673,
    "text": "I know it is understandable that the\nmoments keep replaying in your heart and",
    "spk": "K",
    "lowconf": [
@@ -473,8 +458,8 @@
    ]
   },
   {
-   "s": 112.94,
-   "e": 113.94,
+   "s": 106.673,
+   "e": 107.673,
    "text": "in your mind.",
    "spk": "K",
    "lowconf": [
@@ -482,8 +467,8 @@
    ]
   },
   {
-   "s": 115.58,
-   "e": 118.9,
+   "s": 109.313,
+   "e": 112.633,
    "text": "Sometimes we are always questioning our\ndecision.",
    "spk": "K",
    "lowconf": [
@@ -491,8 +476,8 @@
    ]
   },
   {
-   "s": 118.9,
-   "e": 119.84,
+   "s": 112.633,
+   "e": 113.573,
    "text": "Whether it's a decision or not.",
    "spk": "K",
    "lowconf": [
@@ -503,8 +488,8 @@
    ]
   },
   {
-   "s": 119.84,
-   "e": 121.17,
+   "s": 113.573,
+   "e": 114.903,
    "text": "Whether it's right or wrong.",
    "spk": "K",
    "lowconf": [
@@ -512,8 +497,8 @@
    ]
   },
   {
-   "s": 123.55,
-   "e": 127.66,
+   "s": 117.033,
+   "e": 121.127,
    "text": "I keep hearing the monitor in my head\nevery day, every night.",
    "spk": "F",
    "lowconf": [
@@ -521,15 +506,15 @@
    ]
   },
   {
-   "s": 128.05,
-   "e": 134.04,
+   "s": 121.517,
+   "e": 127.507,
    "text": "Even when I close my eyes, I still can\nhear the monitor.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 134.25,
-   "e": 138.53,
+   "s": 127.717,
+   "e": 131.997,
    "text": "That sounds exhausting Farhan, since you\nare already away from the operation",
    "spk": "K",
    "lowconf": [
@@ -538,36 +523,36 @@
    ]
   },
   {
-   "s": 138.53,
-   "e": 139.53,
+   "s": 131.997,
+   "e": 132.997,
    "text": "theatre.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 142.17,
-   "e": 147.33,
+   "s": 135.637,
+   "e": 140.797,
    "text": "Yes. I haven't been sleeping properly for\nalmost a few days.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 147.33,
-   "e": 150.33,
+   "s": 140.797,
+   "e": 143.797,
    "text": "I haven't been eaten properly since it\nhappened.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 150.33,
-   "e": 152.0,
+   "s": 143.797,
+   "e": 145.467,
    "text": "No quality of life.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 154.14,
-   "e": 159.46,
+   "s": 146.34,
+   "e": 151.66,
    "text": "Um... Well, thank you for telling me that\nyou have this...",
    "spk": "K",
    "lowconf": [
@@ -575,22 +560,22 @@
    ]
   },
   {
-   "s": 159.46,
-   "e": 163.51,
+   "s": 151.66,
+   "e": 155.71,
    "text": "I understand this affects you emotionally\nand physically.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 165.48,
-   "e": 170.9,
+   "s": 157.68,
+   "e": 163.1,
    "text": "And I want you to understand something\nthat feeling distressed after a patient",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 170.9,
-   "e": 176.31,
+   "s": 163.1,
+   "e": 168.51,
    "text": "died unexpectedly does not mean that you\nare weak or you are not competent.",
    "spk": "K",
    "lowconf": [
@@ -598,15 +583,15 @@
    ]
   },
   {
-   "s": 179.6,
-   "e": 182.65,
+   "s": 171.0,
+   "e": 174.05,
    "text": "Everyone seems to be.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 182.84,
-   "e": 184.29,
+   "s": 174.24,
+   "e": 175.69,
    "text": "I've moved on.",
    "spk": "F",
    "lowconf": [
@@ -615,15 +600,15 @@
    ]
   },
   {
-   "s": 184.74,
-   "e": 188.69,
+   "s": 176.14,
+   "e": 180.09,
    "text": "I feel like I am the only one struggling\nright now.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 191.08,
-   "e": 198.16,
+   "s": 180.713,
+   "e": 187.793,
    "text": "Well, sometimes when people respond\ndifferently to different situations, it",
    "spk": "K",
    "lowconf": [
@@ -631,50 +616,50 @@
    ]
   },
   {
-   "s": 198.16,
-   "e": 201.99,
+   "s": 187.793,
+   "e": 191.623,
    "text": "doesn't mean that they appear okay.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 202.36,
-   "e": 204.02,
+   "s": 191.993,
+   "e": 193.653,
    "text": "They are not affected.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 204.02,
-   "e": 208.13,
+   "s": 193.653,
+   "e": 197.763,
    "text": "You don't have to compare your reaction\nwith others.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 209.66,
-   "e": 212.09,
+   "s": 199.293,
+   "e": 201.723,
    "text": "You know what? I feel very guilty.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 212.18,
-   "e": 214.3,
+   "s": 201.813,
+   "e": 203.933,
    "text": "Maybe I should be stronger than this.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 214.3,
-   "e": 220.42,
+   "s": 203.933,
+   "e": 209.453,
    "text": "You are human before you become an\nanesthesiologist.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 222.33,
-   "e": 230.0,
+   "s": 211.363,
+   "e": 219.033,
    "text": "It's okay for you to feel sad or shaken,\nconfused or even feel guilty.",
    "spk": "K",
    "lowconf": [
@@ -683,29 +668,29 @@
    ]
   },
   {
-   "s": 231.27,
-   "e": 234.88,
+   "s": 220.303,
+   "e": 223.913,
    "text": "You don't have to force yourself to be\nstrong all the time.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 236.07,
-   "e": 241.82,
+   "s": 224.303,
+   "e": 230.053,
    "text": "To be honest, I don't really want to go\nback to the theatre right now.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 242.01,
-   "e": 244.24,
+   "s": 230.243,
+   "e": 232.473,
    "text": "I almost call in sick tomorrow.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 244.59,
-   "e": 249.86,
+   "s": 232.823,
+   "e": 238.093,
    "text": "I don't know. I don't know if I can trust\neven myself anymore.",
    "spk": "F",
    "lowconf": [
@@ -713,43 +698,43 @@
    ]
   },
   {
-   "s": 251.35,
-   "e": 253.48,
+   "s": 239.583,
+   "e": 241.713,
    "text": "I appreciate your honesty, Farhan.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 254.27,
-   "e": 258.62,
+   "s": 242.503,
+   "e": 246.853,
    "text": "It sounds that you are overwhelmed and not\nready to go to work.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 259.55,
-   "e": 266.73,
+   "s": 247.483,
+   "e": 254.663,
    "text": "Yeah, I am worried that if something\nhappens again, I may not be able to cope",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 266.73,
-   "e": 268.28,
+   "s": 254.663,
+   "e": 256.213,
    "text": "with the situation anymore.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 269.43,
-   "e": 274.23,
+   "s": 257.363,
+   "e": 262.163,
    "text": "Given your experience, I know that you\ndeserve attention.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 274.23,
-   "e": 278.48,
+   "s": 262.163,
+   "e": 266.413,
    "text": "Can I ask why you don't trust yourself?",
    "spk": "K",
    "lowconf": [
@@ -757,57 +742,57 @@
    ]
   },
   {
-   "s": 279.35,
-   "e": 285.28,
+   "s": 267.283,
+   "e": 273.213,
    "text": "Are you worried about your ability to\nperform in the future?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 286.01,
-   "e": 291.18,
+   "s": 273.943,
+   "e": 278.813,
    "text": "I mean, I'm afraid that I won't be able to\nfocus properly.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 291.37,
-   "e": 293.25,
+   "s": 279.003,
+   "e": 280.883,
    "text": "I just feel mentally exhausted.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 293.25,
-   "e": 294.88,
+   "s": 280.883,
+   "e": 282.513,
    "text": "I just want to rest.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 296.64,
-   "e": 299.3,
+   "s": 283.173,
+   "e": 285.833,
    "text": "Well, thank you for clarifying.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 299.3,
-   "e": 301.89,
+   "s": 285.833,
+   "e": 288.423,
    "text": "Your well-being and safety matters.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 302.12,
-   "e": 305.4,
+   "s": 288.653,
+   "e": 291.933,
    "text": "So, I would encourage for you to discuss.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 305.4,
-   "e": 307.17,
+   "s": 291.933,
+   "e": 293.703,
    "text": "With your immediate support.",
    "spk": "K",
    "lowconf": [
@@ -815,8 +800,8 @@
    ]
   },
   {
-   "s": 307.36,
-   "e": 313.05,
+   "s": 293.893,
+   "e": 299.583,
    "text": "Maybe to render whether you are ready or\nnot to return to duties.",
    "spk": "K",
    "lowconf": [
@@ -826,29 +811,29 @@
    ]
   },
   {
-   "s": 315.14,
-   "e": 320.45,
+   "s": 300.94,
+   "e": 306.25,
    "text": "But I am afraid people will think that I\nam not capable of doing my job.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 320.96,
-   "e": 322.93,
+   "s": 306.76,
+   "e": 308.73,
    "text": "Don't worry. Don't worry.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 323.08,
-   "e": 328.81,
+   "s": 308.88,
+   "e": 314.61,
    "text": "Seeking support is not a sign of\nincompetence.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 328.9,
-   "e": 333.47,
+   "s": 314.7,
+   "e": 319.27,
    "text": "You are actually recognizing a symptom.",
    "spk": "K",
    "lowconf": [
@@ -856,8 +841,8 @@
    ]
   },
   {
-   "s": 334.36,
-   "e": 337.86,
+   "s": 320.16,
+   "e": 323.66,
    "text": "This is important. Because you know you\nneed help.",
    "spk": "K",
    "lowconf": [
@@ -865,22 +850,22 @@
    ]
   },
   {
-   "s": 337.86,
-   "e": 342.81,
+   "s": 323.66,
+   "e": 328.61,
    "text": "You need help. And you want to be ready\nbefore you go to work.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 343.5,
-   "e": 345.53,
+   "s": 329.3,
+   "e": 331.33,
    "text": "So, what should I do now?",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 346.98,
-   "e": 349.67,
+   "s": 332.047,
+   "e": 334.737,
    "text": "Well, can we start from the basics?",
    "spk": "K",
    "lowconf": [
@@ -888,113 +873,113 @@
    ]
   },
   {
-   "s": 351.44,
-   "e": 353.46,
+   "s": 336.507,
+   "e": 338.527,
    "text": "Have you had enough rest?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 353.46,
-   "e": 354.8,
+   "s": 338.527,
+   "e": 339.867,
    "text": "Have you been eating?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 354.8,
-   "e": 357.11,
+   "s": 339.867,
+   "e": 342.177,
    "text": "Is there someone that you can rely on?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 357.54,
-   "e": 358.59,
+   "s": 342.607,
+   "e": 343.657,
    "text": "Not really.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 359.26,
-   "e": 362.21,
+   "s": 344.327,
+   "e": 347.277,
    "text": "I've just been keeping everything to\nmyself.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 363.26,
-   "e": 366.71,
+   "s": 347.993,
+   "e": 351.443,
    "text": "Okay. You don't have to manage this alone.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 366.76,
-   "e": 369.06,
+   "s": 351.493,
+   "e": 353.793,
    "text": "We can explore practical support.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 369.06,
-   "e": 371.13,
+   "s": 353.793,
+   "e": 355.863,
    "text": "Maybe we can find for you.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 372.28,
-   "e": 378.39,
+   "s": 357.013,
+   "e": 363.123,
    "text": "Your supervisor can supervise your current\ncapacity of your clinical judgment.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 378.64,
-   "e": 382.75,
+   "s": 363.373,
+   "e": 367.483,
    "text": "You need time. We understand you need time\nto recover.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 382.94,
-   "e": 386.79,
+   "s": 367.673,
+   "e": 371.523,
    "text": "And we will arrange follow-up for you\nlater.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 388.22,
-   "e": 391.79,
+   "s": 372.22,
+   "e": 375.79,
    "text": "I think I need that support.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 392.76,
-   "e": 395.78,
+   "s": 376.76,
+   "e": 379.78,
    "text": "Good. Good. That's a good first step.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 397.01,
-   "e": 399.98,
+   "s": 381.01,
+   "e": 383.98,
    "text": "Let's not pressure to answer everything\ntoday.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 400.55,
-   "e": 402.94,
+   "s": 384.55,
+   "e": 386.94,
    "text": "We can go this step by step.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 405.73,
-   "e": 409.46,
+   "s": 388.43,
+   "e": 392.16,
    "text": "I don't know. I still don't know how to\nstop thinking about that patient.",
    "spk": "F",
    "lowconf": [
@@ -1002,64 +987,64 @@
    ]
   },
   {
-   "s": 411.87,
-   "e": 417.91,
+   "s": 394.57,
+   "e": 400.61,
    "text": "I don't force you to quickly switch off\nthe thoughts.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 417.91,
-   "e": 423.92,
+   "s": 400.61,
+   "e": 406.62,
    "text": "So, when they come, we try not to\nrecognize them without judging yourself.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 424.77,
-   "e": 426.21,
+   "s": 407.47,
+   "e": 408.91,
    "text": "You have to give permission.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 426.21,
-   "e": 432.01,
+   "s": 408.91,
+   "e": 414.71,
    "text": "You have to give time for yourself to\nregulate, to eat regularly, to go and",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 432.01,
-   "e": 439.64,
+   "s": 414.71,
+   "e": 422.34,
    "text": "rest. And we want you to reconnect back to\nyour friends and colleagues.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 439.65,
-   "e": 445.06,
+   "s": 422.35,
+   "e": 427.76,
    "text": "We also can work together on strategies to\nmanage any distressing moments.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 446.56,
-   "e": 451.07,
+   "s": 428.66,
+   "e": 433.17,
    "text": "I suppose I never thought that doctors\ncould be affected this much by losing a",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 451.07,
-   "e": 452.8,
+   "s": 433.17,
+   "e": 434.333,
    "text": "patient.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 453.02,
-   "e": 458.08,
+   "s": 434.333,
+   "e": 439.28,
    "text": "Well, you have to understand healthcare\nprofessionals are also often affected",
    "spk": "K",
    "lowconf": [
@@ -1067,29 +1052,29 @@
    ]
   },
   {
-   "s": 458.08,
-   "e": 461.079,
+   "s": 439.28,
+   "e": 442.279,
    "text": "during the care for your patients.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 461.079,
-   "e": 464.96,
+   "s": 442.279,
+   "e": 446.16,
    "text": "Sometimes we forget that we also need\ncare.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 464.96,
-   "e": 471.03,
+   "s": 446.16,
+   "e": 452.23,
    "text": "You deserve the same compassion as much as\nhow much you give to your patients.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 474.1,
-   "e": 482.2,
+   "s": 454.567,
+   "e": 462.667,
    "text": "Thank you. I didn't realize how much I\nneeded someone just to sit and listen",
    "spk": "F",
    "lowconf": [
@@ -1098,71 +1083,71 @@
    ]
   },
   {
-   "s": 482.2,
-   "e": 483.2,
+   "s": 462.667,
+   "e": 463.667,
    "text": "to me.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 484.58,
-   "e": 489.19,
+   "s": 464.413,
+   "e": 469.023,
    "text": "I'm glad you shared with me today, Farhan.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 490.24,
-   "e": 492.18,
+   "s": 470.073,
+   "e": 472.013,
    "text": "Remember, you are not alone.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 492.18,
-   "e": 493.73,
+   "s": 472.013,
+   "e": 473.563,
    "text": "We will work this together,",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 495.2,
-   "e": 498.03,
+   "s": 475.033,
+   "e": 477.863,
    "text": "right, at a pace that manageable for you.",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 498.64,
-   "e": 501.13,
+   "s": 478.473,
+   "e": 480.963,
    "text": "Thank you. I feel a little bit lighter.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 502.32,
-   "e": 504.05,
+   "s": 482.153,
+   "e": 483.883,
    "text": "Before we finish,",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 504.36,
-   "e": 507.69,
+   "s": 484.193,
+   "e": 487.523,
    "text": "maybe we can arrange more session after\nthis?",
    "spk": "K",
    "lowconf": []
   },
   {
-   "s": 508.08,
-   "e": 509.67,
+   "s": 487.913,
+   "e": 489.503,
    "text": "Thank you so much. I really need that\nsupport.",
    "spk": "F",
    "lowconf": []
   },
   {
-   "s": 510.2,
-   "e": 512.3,
+   "s": 490.033,
+   "e": 492.133,
    "text": "Okay, thank you.",
    "spk": "K",
    "lowconf": [
@@ -1170,8 +1155,8 @@
    ]
   },
   {
-   "s": 512.3,
-   "e": 513.35,
+   "s": 492.133,
+   "e": 493.183,
    "text": "Thank you.",
    "spk": "F",
    "lowconf": []
@@ -1179,151 +1164,166 @@
  ],
  "notes": [
   {
-   "s": 10.6,
-   "e": 15.6,
+   "s": 10.133,
+   "e": 15.133,
    "text": "Soalan terbuka"
   },
   {
-   "s": 23.7,
-   "e": 33.7,
+   "s": 21.4,
+   "e": 31.333,
    "text": "Tiada paksaan"
   },
   {
-   "s": 36.3,
-   "e": 43.1,
+   "s": 33.467,
+   "e": 40.267,
    "text": "Terus terbayang"
   },
   {
-   "s": 43.1,
-   "e": 51.6,
+   "s": 40.267,
+   "e": 47.5,
    "text": "Refleksi"
   },
   {
-   "s": 63.5,
-   "e": 72.4,
+   "s": 59.4,
+   "e": 68.3,
    "text": "Akui perasaannya"
   },
   {
-   "s": 86.7,
-   "e": 96.7,
+   "s": 81.633,
+   "e": 91.633,
    "text": "Tanpa menghakimi"
   },
   {
-   "s": 123.3,
-   "e": 133.3,
+   "s": 117.033,
+   "e": 126.767,
    "text": "Bunyi monitor"
   },
   {
-   "s": 141.9,
-   "e": 151.9,
+   "s": 135.367,
+   "e": 145.367,
    "text": "Tidur & makan terganggu"
   },
   {
-   "s": 165.3,
-   "e": 175.3,
+   "s": 157.5,
+   "e": 167.5,
    "text": "Tertekan ≠ lemah"
   },
   {
-   "s": 179.4,
-   "e": 189.4,
+   "s": 170.8,
+   "e": 180.5,
    "text": "Rasa keseorangan"
   },
   {
-   "s": 209.4,
-   "e": 214.4,
+   "s": 199.033,
+   "e": 204.033,
    "text": "Rasa bersalah"
   },
   {
-   "s": 214.28,
-   "e": 224.28,
+   "s": 203.913,
+   "e": 213.313,
    "text": "Manusia dahulu"
   },
   {
-   "s": 235.8,
-   "e": 245.8,
+   "s": 224.3,
+   "e": 234.033,
    "text": "Takut kembali bertugas"
   },
   {
-   "s": 274.0,
-   "e": 284.0,
+   "s": 261.933,
+   "e": 271.933,
    "text": "Tanya, jangan andai"
   },
   {
-   "s": 320.7,
-   "e": 330.7,
+   "s": 306.5,
+   "e": 316.5,
    "text": "Minta bantuan ≠ tidak cekap"
   },
   {
-   "s": 346.8,
-   "e": 356.8,
+   "s": 331.867,
+   "e": 341.867,
    "text": "Mula dengan asas"
   },
   {
-   "s": 363.0,
-   "e": 373.0,
+   "s": 347.733,
+   "e": 357.733,
    "text": "Tidak perlu bersendirian"
   },
   {
-   "s": 392.5,
-   "e": 402.5,
+   "s": 376.5,
+   "e": 386.5,
    "text": "Langkah demi langkah"
   },
   {
-   "s": 411.6,
-   "e": 421.6,
+   "s": 394.3,
+   "e": 404.3,
    "text": "Tak perlu padam fikiran"
   },
   {
-   "s": 460.9,
-   "e": 470.9,
+   "s": 442.1,
+   "e": 452.1,
    "text": "Petugas juga perlukan jagaan"
   }
  ],
  "chapters": [
   {
-   "s": 6.0,
-   "e": 11.5,
+   "s": 5.533,
+   "e": 11.033,
    "n": "01",
    "title": "Ruang selamat"
   },
   {
-   "s": 36.3,
-   "e": 41.8,
+   "s": 33.467,
+   "e": 38.967,
    "n": "02",
    "title": "Apa yang dirasai"
   },
   {
-   "s": 141.9,
-   "e": 147.4,
+   "s": 135.367,
+   "e": 140.867,
    "n": "03",
    "title": "Kesan pada badan"
   },
   {
-   "s": 209.4,
-   "e": 214.9,
+   "s": 199.033,
+   "e": 204.533,
    "n": "04",
    "title": "Rasa bersalah & takut"
   },
   {
-   "s": 343.3,
-   "e": 348.8,
+   "s": 329.1,
+   "e": 333.867,
    "n": "05",
    "title": "Bantuan praktikal"
   },
   {
-   "s": 405.5,
-   "e": 411.0,
+   "s": 388.2,
+   "e": 393.7,
    "n": "06",
    "title": "Langkah seterusnya"
   }
  ],
  "end": {
-  "s": 513.4,
-  "e": 518.0,
+  "s": 493.233,
+  "e": 497.833,
   "title": [
    "Petugas kesihatan",
    "juga perlukan jagaan."
   ],
   "sub": "Mencari sokongan bukan tanda tidak cekap."
- }
+ },
+ "jumps": [
+  4.0,
+  74.8667,
+  145.8333,
+  169.4667,
+  204.6333,
+  275.4667,
+  300.1667,
+  372.1333,
+  387.3,
+  452.8333
+ ],
+ "footageFile": "footage_cut.mp4",
+ "voiceFile": "voice_clean_cut.wav",
+ "version": "v02"
 }
