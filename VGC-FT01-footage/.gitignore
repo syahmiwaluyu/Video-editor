@@ -1,0 +1,7 @@
+source/node_modules/
+source/public/footage.mp4
+work/*.wav
+out/*.wav
+out/video_muted.mp4
+*_master.mp4
+work/*.log

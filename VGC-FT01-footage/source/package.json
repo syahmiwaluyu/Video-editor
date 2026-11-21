@@ -1,0 +1,19 @@
+{
+  "name": "vgc-ft01-footage",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts Footage-Preview ../out/video_muted.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell"
+  },
+  "dependencies": {
+    "@fontsource/archivo": "5.1.1",
+    "@fontsource/caveat": "5.1.1",
+    "@remotion/cli": "4.0.545",
+    "@types/react": "18.3.12",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.545",
+    "typescript": "5.6.3"
+  }
+}

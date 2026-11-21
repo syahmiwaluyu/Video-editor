@@ -1,0 +1,622 @@
+{
+ "footageEndSec": 515.7,
+ "turns": [
+  [
+   0,
+   "K"
+  ],
+  [
+   15.6,
+   "F"
+  ],
+  [
+   23.7,
+   "K"
+  ],
+  [
+   36.3,
+   "F"
+  ],
+  [
+   43.1,
+   "K"
+  ],
+  [
+   51.6,
+   "F"
+  ],
+  [
+   63.5,
+   "K"
+  ],
+  [
+   72.4,
+   "F"
+  ],
+  [
+   79.7,
+   "K"
+  ],
+  [
+   99.7,
+   "F"
+  ],
+  [
+   108.1,
+   "K"
+  ],
+  [
+   123.3,
+   "F"
+  ],
+  [
+   134.0,
+   "K"
+  ],
+  [
+   141.9,
+   "F"
+  ],
+  [
+   153.9,
+   "K"
+  ],
+  [
+   179.4,
+   "F"
+  ],
+  [
+   190.9,
+   "K"
+  ],
+  [
+   209.4,
+   "F"
+  ],
+  [
+   214.28,
+   "K"
+  ],
+  [
+   235.8,
+   "F"
+  ],
+  [
+   251.1,
+   "K"
+  ],
+  [
+   259.3,
+   "F"
+  ],
+  [
+   269.2,
+   "K"
+  ],
+  [
+   285.8,
+   "F"
+  ],
+  [
+   296.4,
+   "K"
+  ],
+  [
+   314.9,
+   "F"
+  ],
+  [
+   320.7,
+   "K"
+  ],
+  [
+   343.3,
+   "F"
+  ],
+  [
+   346.8,
+   "K"
+  ],
+  [
+   357.3,
+   "F"
+  ],
+  [
+   363.0,
+   "K"
+  ],
+  [
+   388.0,
+   "F"
+  ],
+  [
+   392.5,
+   "K"
+  ],
+  [
+   405.5,
+   "F"
+  ],
+  [
+   411.6,
+   "K"
+  ],
+  [
+   446.0,
+   "F"
+  ],
+  [
+   452.8,
+   "K"
+  ],
+  [
+   473.9,
+   "F"
+  ],
+  [
+   484.1,
+   "K"
+  ],
+  [
+   498.4,
+   "F"
+  ],
+  [
+   502.1,
+   "K"
+  ],
+  [
+   507.9,
+   "F"
+  ],
+  [
+   510.1,
+   "K"
+  ],
+  [
+   512.1,
+   "F"
+  ]
+ ],
+ "hook": {
+  "s": 0,
+  "e": 5.4,
+  "lines": [
+   "Pesakit tak dapat diselamatkan.",
+   "Bagaimana pula petugasnya?"
+  ]
+ },
+ "scenes": [
+  {
+   "s": 0,
+   "e": 10.6,
+   "mode": "two"
+  },
+  {
+   "s": 10.6,
+   "e": 15.6,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 15.6,
+   "e": 23.7,
+   "mode": "full"
+  },
+  {
+   "s": 23.7,
+   "e": 33.7,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 33.7,
+   "e": 36.3,
+   "mode": "two"
+  },
+  {
+   "s": 36.3,
+   "e": 43.1,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 43.1,
+   "e": 51.6,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 51.6,
+   "e": 63.5,
+   "mode": "two"
+  },
+  {
+   "s": 63.5,
+   "e": 72.4,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 72.4,
+   "e": 86.7,
+   "mode": "two"
+  },
+  {
+   "s": 86.7,
+   "e": 96.7,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 96.7,
+   "e": 99.7,
+   "mode": "two"
+  },
+  {
+   "s": 99.7,
+   "e": 108.1,
+   "mode": "full"
+  },
+  {
+   "s": 108.1,
+   "e": 123.3,
+   "mode": "two"
+  },
+  {
+   "s": 123.3,
+   "e": 133.3,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 133.3,
+   "e": 141.9,
+   "mode": "two"
+  },
+  {
+   "s": 141.9,
+   "e": 151.9,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 151.9,
+   "e": 165.3,
+   "mode": "two"
+  },
+  {
+   "s": 165.3,
+   "e": 175.3,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 175.3,
+   "e": 179.4,
+   "mode": "two"
+  },
+  {
+   "s": 179.4,
+   "e": 189.4,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 189.4,
+   "e": 209.4,
+   "mode": "two"
+  },
+  {
+   "s": 209.4,
+   "e": 214.28,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 214.28,
+   "e": 224.28,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 224.28,
+   "e": 235.8,
+   "mode": "two"
+  },
+  {
+   "s": 235.8,
+   "e": 245.8,
+   "mode": "spk",
+   "spk": "F"
+  },
+  {
+   "s": 245.8,
+   "e": 259.3,
+   "mode": "two"
+  },
+  {
+   "s": 259.3,
+   "e": 274.0,
+   "mode": "full"
+  },
+  {
+   "s": 274.0,
+   "e": 284.0,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 284.0,
+   "e": 296.4,
+   "mode": "two"
+  },
+  {
+   "s": 296.4,
+   "e": 320.7,
+   "mode": "full"
+  },
+  {
+   "s": 320.7,
+   "e": 330.7,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 330.7,
+   "e": 346.8,
+   "mode": "two"
+  },
+  {
+   "s": 346.8,
+   "e": 356.8,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 356.8,
+   "e": 363.0,
+   "mode": "two"
+  },
+  {
+   "s": 363.0,
+   "e": 373.0,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 373.0,
+   "e": 392.5,
+   "mode": "two"
+  },
+  {
+   "s": 392.5,
+   "e": 402.5,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 402.5,
+   "e": 411.6,
+   "mode": "two"
+  },
+  {
+   "s": 411.6,
+   "e": 421.6,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 421.6,
+   "e": 446.0,
+   "mode": "two"
+  },
+  {
+   "s": 446.0,
+   "e": 452.8,
+   "mode": "full"
+  },
+  {
+   "s": 452.8,
+   "e": 460.9,
+   "mode": "two"
+  },
+  {
+   "s": 460.9,
+   "e": 470.9,
+   "mode": "spk",
+   "spk": "K"
+  },
+  {
+   "s": 470.9,
+   "e": 473.9,
+   "mode": "two"
+  },
+  {
+   "s": 473.9,
+   "e": 484.1,
+   "mode": "full"
+  },
+  {
+   "s": 484.1,
+   "e": 498.4,
+   "mode": "two"
+  },
+  {
+   "s": 498.4,
+   "e": 502.1,
+   "mode": "full"
+  },
+  {
+   "s": 502.1,
+   "e": 513.4,
+   "mode": "two"
+  }
+ ],
+ "notes": [
+  {
+   "s": 10.6,
+   "e": 15.6,
+   "text": "Soalan terbuka"
+  },
+  {
+   "s": 23.7,
+   "e": 33.7,
+   "text": "Tiada paksaan"
+  },
+  {
+   "s": 36.3,
+   "e": 43.1,
+   "text": "Terus terbayang"
+  },
+  {
+   "s": 43.1,
+   "e": 51.6,
+   "text": "Refleksi"
+  },
+  {
+   "s": 63.5,
+   "e": 72.4,
+   "text": "Akui perasaannya"
+  },
+  {
+   "s": 86.7,
+   "e": 96.7,
+   "text": "Tanpa menghakimi"
+  },
+  {
+   "s": 123.3,
+   "e": 133.3,
+   "text": "Bunyi monitor"
+  },
+  {
+   "s": 141.9,
+   "e": 151.9,
+   "text": "Tidur & makan terganggu"
+  },
+  {
+   "s": 165.3,
+   "e": 175.3,
+   "text": "Tertekan ≠ lemah"
+  },
+  {
+   "s": 179.4,
+   "e": 189.4,
+   "text": "Rasa keseorangan"
+  },
+  {
+   "s": 209.4,
+   "e": 214.4,
+   "text": "Rasa bersalah"
+  },
+  {
+   "s": 214.28,
+   "e": 224.28,
+   "text": "Manusia dahulu"
+  },
+  {
+   "s": 235.8,
+   "e": 245.8,
+   "text": "Takut kembali bertugas"
+  },
+  {
+   "s": 274.0,
+   "e": 284.0,
+   "text": "Tanya, jangan andai"
+  },
+  {
+   "s": 320.7,
+   "e": 330.7,
+   "text": "Minta bantuan ≠ tidak cekap"
+  },
+  {
+   "s": 346.8,
+   "e": 356.8,
+   "text": "Mula dengan asas"
+  },
+  {
+   "s": 363.0,
+   "e": 373.0,
+   "text": "Tidak perlu bersendirian"
+  },
+  {
+   "s": 392.5,
+   "e": 402.5,
+   "text": "Langkah demi langkah"
+  },
+  {
+   "s": 411.6,
+   "e": 421.6,
+   "text": "Tak perlu padam fikiran"
+  },
+  {
+   "s": 460.9,
+   "e": 470.9,
+   "text": "Petugas juga perlukan jagaan"
+  }
+ ],
+ "chapters": [
+  {
+   "s": 6.0,
+   "e": 11.5,
+   "n": "01",
+   "title": "Ruang selamat"
+  },
+  {
+   "s": 36.3,
+   "e": 41.8,
+   "n": "02",
+   "title": "Apa yang dirasai"
+  },
+  {
+   "s": 141.9,
+   "e": 147.4,
+   "n": "03",
+   "title": "Kesan pada badan"
+  },
+  {
+   "s": 209.4,
+   "e": 214.9,
+   "n": "04",
+   "title": "Rasa bersalah & takut"
+  },
+  {
+   "s": 343.3,
+   "e": 348.8,
+   "n": "05",
+   "title": "Bantuan praktikal"
+  },
+  {
+   "s": 405.5,
+   "e": 411.0,
+   "n": "06",
+   "title": "Langkah seterusnya"
+  }
+ ],
+ "end": {
+  "s": 513.4,
+  "hold": 4.6,
+  "title": [
+   "Petugas kesihatan",
+   "juga perlukan jagaan."
+  ],
+  "sub": "Mencari sokongan bukan tanda tidak cekap."
+ },
+ "caption_fixes": {
+  "Everything is fine.": "",
+  "Hoi Han": "Farhan",
+  "for Han,": "Farhan,",
+  "someone one just": "someone just",
+  "I really": "I really need that support.",
+  "I'm almost all in sick tomorrow": "I almost call in sick tomorrow",
+  "like a writer": "lighter",
+  "Farhan. Well,": "Farhan.",
+  "patient. Well,": "patient.",
+  "well you have to understand": "Well, you have to understand",
+  "for your patients sometimes we forget that we also need care": "for your patients. Sometimes we forget that we also need care.",
+  "you deserve the same compassion as much as how much you give to your patients": "You deserve the same compassion as much as how much you give to your patients.",
+  "thank you I didn't realize": "Thank you. I didn't realize",
+  "well -being": "well-being",
+  " -up": "-up"
+ }
+}
