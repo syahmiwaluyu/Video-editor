@@ -1,0 +1,26 @@
+id,source_start_s,source_end_s,remove_s,silent_run_start_s,silent_run_end_s,note
+S01,4.0000,4.4667,0.47,3.52,4.94,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S02,21.8667,23.7667,1.90,21.38,24.26,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S03,35.3667,35.8333,0.47,34.9,36.32,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S04,49.7000,50.9667,1.27,49.22,51.44,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S05,78.9667,79.9333,0.97,78.5,80.42,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S06,98.7000,98.9333,0.23,98.22,99.42,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S07,105.9667,106.9333,0.97,105.5,107.4,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S08,123.3000,123.5667,0.27,122.82,124.04,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S09,152.3667,153.6333,1.27,151.88,154.12,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S10,177.2667,178.0667,0.80,176.78,178.56,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S11,189.1000,190.8667,1.77,188.62,191.36,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S12,215.0000,215.6000,0.60,214.52,216.08,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S13,235.2667,236.0667,0.80,234.8,236.56,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S14,258.9333,259.2333,0.30,258.46,259.72,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S15,287.5333,287.8333,0.30,287.04,288.3,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S16,295.3000,296.4000,1.10,294.82,296.88,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S17,313.6333,314.3667,0.73,313.16,314.84,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S18,345.9667,346.7000,0.73,345.5,347.18,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S19,362.6667,363.0000,0.33,362.2,363.48,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S20,387.4000,388.1333,0.73,386.92,388.6,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S21,403.3000,404.6000,1.30,402.82,405.08,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S22,445.6667,446.2667,0.60,445.2,446.76,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S23,452.2333,453.1333,0.90,451.76,453.6,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S24,471.6333,472.3667,0.73,471.14,472.86,silent run shortened to 0.96 s; sound kept with 0.12 s guard
+S25,483.4333,484.0667,0.63,482.94,484.54,silent run shortened to 0.96 s; sound kept with 0.12 s guard
