@@ -132,3 +132,41 @@ Audio: each part gain-matched to −20 LUFS (Gemini −5.4 dB, recap −9.0 dB),
   the people shown, speakers and audience: get consent and follow hospital media rules before publishing.
 - The recap shows hospital/ministry logos and real staff. That's fine for your own institution's use, but confirm you are allowed to post it.
 - Not tested on a phone or in any platform app.
+
+---
+
+# Combined v02 — Gemini cut + highlight montage from both recaps (16:9, ~69 s)
+
+File: `VGC-AE01_combined_v02.mp4`. Build (from `source/`):
+`python3 -I scripts/build_montage.py ../VGC-AE01_gemini_cut_v01.mp4 ../VGC-AE01_combined_v02.mp4`
+New source: `source/assets/event_recap2.mov` (user's Google Drive video, 1920×1080, VFR, 60.9 s; downloaded unchanged).
+Intermediates in `out/montage/` are not committed.
+
+Confirmed by the user: compact montage (~75 s target), music from ONE recap only, poster once at the end, black gap removed.
+
+| Output | Content |
+|---|---|
+| 0–29.5 s | Gemini cut v01 |
+| 28.7–29.5 s | 0.75 s dissolve into the montage |
+| 28.7–64.7 s | 17 hard-cut shots, 1.0–3.0 s each: wide auditorium → registration → committee → speakers ("Care for the caregiver") → audience interaction → care packs → token of appreciation → group photos |
+| 64.7–69.0 s | Event poster, once, then a 0.6 s fade to black |
+
+Shot list with source in/out times: printed by the script (and in its `SHOTS` table).
+
+**Music:** recap 1's own track, 23.0–63.4 s, so it ends where that recap's music ends. Measured tempo ≈ 60 BPM
+(beat 0.998 s); shot lengths are whole half-beats from a beat-aligned start, so cuts land on the half-beat grid.
+Recap 2's audio (≈110 BPM) is not used.
+**Left out on purpose:** recap 1's 2.3 s black gap and its vertical side-barred shot; recap 2's "CINEMATIC EMOTIONAL"
+template title, white flash (29.4 s), cyan frame (16 s); repeated posters, registration desk and wide shots.
+
+## Checks performed (v02)
+- ffprobe: 1280×720, 30 fps, 2071 frames, 69.0 s, H.264 High, BT.709 tagged, AAC 48 kHz stereo, 31 MB.
+- Loudness: −14.0 LUFS, true peak −1.7 dBFS. silencedetect: none. blackdetect: only the final 2-frame fade end.
+- Montage checked at 2 fps (`qc/montage/montage_2fps.png`): no transition frames, flashes or template titles leak in.
+
+## NOT checked (v02)
+- **Not listened to.** Whether the cuts actually *feel* on the beat (the beat grid comes from automatic analysis).
+- Rights to recap 1's music; consent and media approval for the people, logos and the venue.
+- Recap 2 is tagged Display-P3 primaries (iPhone) and was treated as BT.709, so it may be slightly less saturated.
+  The two recaps also have different colour grades; I didn't colour-match them.
+- Not tested on a phone or in any platform app.
