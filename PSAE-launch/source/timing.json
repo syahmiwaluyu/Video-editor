@@ -1,0 +1,41 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 1800,
+  "overlap": 24,
+  "scenes": {
+    "opening": [0, 216],
+    "emotional": [216, 540],
+    "awareness": [540, 960],
+    "peer": [960, 1440],
+    "title": [1440, 1800]
+  },
+  "shots": [
+    { "id": "roleplay",        "from": 216,  "to": 396,  "warmth": 0.0,  "fx": 50, "fy": 45, "band": true },
+    { "id": "slide_distress",  "from": 384,  "to": 552,  "warmth": 0.05, "fx": 50, "fy": 48 },
+    { "id": "hall_wide",       "from": 540,  "to": 660,  "warmth": 0.25, "fx": 45, "fy": 60 },
+    { "id": "speaker_podium",  "from": 648,  "to": 768,  "warmth": 0.35, "fx": 52, "fy": 40 },
+    { "id": "audience2",       "from": 756,  "to": 864,  "warmth": 0.45, "fx": 50, "fy": 60 },
+    { "id": "speaker_stage",   "from": 852,  "to": 972,  "warmth": 0.55, "fx": 68, "fy": 42 },
+    { "id": "audience_engage", "from": 960,  "to": 1056, "warmth": 0.7,  "fx": 50, "fy": 50 },
+    { "id": "slide_peer",      "from": 1044, "to": 1140, "warmth": 0.75, "fx": 50, "fy": 45 },
+    { "id": "speaker_smile",   "from": 1128, "to": 1224, "warmth": 0.8,  "fx": 62, "fy": 40 },
+    { "id": "balloon_arch",    "from": 1212, "to": 1320, "warmth": 0.9,  "fx": 50, "fy": 50, "portrait": true },
+    { "id": "group_banner",    "from": 1308, "to": 1464, "warmth": 1.0,  "fx": 50, "fy": 58 }
+  ],
+  "cues": {
+    "open_line1": 30,
+    "open_line2": 105,
+    "emo_line1": 250,
+    "emo_line2": 330,
+    "distress_caption": 420,
+    "event_caption": 570,
+    "peer_line1": 990,
+    "peer_line2": 1240,
+    "title_main": 1480,
+    "title_sub": 1560,
+    "title_meta": 1630,
+    "fade_out": 1770
+  }
+}
