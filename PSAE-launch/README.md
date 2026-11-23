@@ -61,6 +61,17 @@ bash scripts/finalize.sh ../PSAE_launch_preview_v01.mp4
 Photo prep (crop/resize) was a one-off Pillow step: EXIF rotate, crop bars, max width 2560.
 Raw photos are git-ignored (`source/public/photos/`) so the attendees' photos are not stored in the repo as separate files.
 
+## Checks performed (on the exported MP4)
+- ffprobe: 1920×1080, 30/1 fps, 1800 frames, 60.000 s, H.264 yuv420p, BT.709 TV range, AAC 48 kHz stereo.
+- Loudness (ebur128): −16.0 LUFS integrated, true peak −2.9 dBFS. silencedetect (−50 dB, 0.3 s): none. blackdetect: none.
+- Visual: contact sheet every 2 s (`qc/contact_sheet_v01.png`).
+
+## Known issues / NOT checked
+- "Often unseen. Often unspoken." is on screen for only about 1.5 s and is small (22 px caps). It needs to be held longer or made larger in v02.
+- **Nobody has listened to the audio yet.** Only levels and a spectrogram were checked.
+- Not watched in real time end to end; not tested on a projector/auditorium screen.
+- Remotion licence terms and Cormorant Garamond / Montserrat (SIL OFL) licences: read them yourself before commercial use.
+
 ## Files
 - `PSAE_launch_preview_v01.mp4` — preview
 - `out/` — muted render, raw and mastered audio
