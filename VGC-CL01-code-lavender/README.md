@@ -1,4 +1,36 @@
-# VGC-CL01 — Code Lavender (3 × 8 s, 9:16) — KIT v01, waiting for footage
+# VGC-CL01 — Code Lavender (3 × 8 s, 9:16)
+
+## NEW: stills preview v01 (from the 3 images you supplied)
+`../VGC-CL01_code-lavender_stills_preview_v01.mp4`: 24 s, 1080×1920, 30 fps. **Preview only, waiting for approval.**
+- Clip 1 = `assets/still1_alone.jpg` (woman in blue scrubs, seated alone). Slow push-in, darker/cooler grade to suggest night.
+- Clip 2 = `assets/still2_support.jpg` (colleague's hand on her shoulder). Slow push-in.
+- Clip 3 = `assets/still3_team.jpg` (team). Push from the centre face out to the full team by 4.3 s, then lavender title card.
+- Camera moves are crops of the stills (`scripts/render_stills.py`). Where the crop is wider than 9:16, a blurred copy
+  fills above and below. No pixels were AI-generated, and nobody moves or speaks.
+- Music: `scripts/make_audio.py` (procedural piano + string pad, crescendo in clip 3) plus quiet room tone. **No dialogue.**
+  The three Malay lines are not in this preview. They need recorded voices (yours or approved talent).
+
+Rebuild: `python3 -I scripts/render_stills.py && python3 -I scripts/make_audio.py && MUSIC=out/music.wav bash scripts/assemble.sh ../VGC-CL01_code-lavender_stills_preview_v01.mp4`
+
+### Issues with the supplied stills (not fixed — your call)
+- **Not the same woman** in clip 1 (blue scrubs, sitting on the floor) and clip 2 (white coat, on a chair). The brief asks for one continuous character.
+- Clip 1 still is **daytime, on the floor, eyes closed, head tilted up**, not night, not on a bench, not head bowed. The grade only darkens it.
+- Clip 2 still: the male colleague **leans over her** rather than sitting beside her.
+- Clip 3 still appears AI-generated (assumption: decorative molecule graphics on the glass, a uniform look). It includes a manikin on a bed and an
+  anatomical model in the background, which the brief did not ask for. Whether the team reads as the Malay/Chinese/Indian mix you want is for you
+  to judge; I can't verify it.
+- **Licence unknown.** Stills 1–2 look like stock photos (assumption). Confirm you have the right to use all three in a public campaign.
+
+## Checks performed on the stills preview
+- ffprobe: 1080×1920, 30/1 fps, 720 frames, 24.000 s, H.264, tv range, AAC 48 kHz stereo.
+- Loudness: −13.6 LUFS integrated, true peak −1.4 dBFS (target −14 / −1.5; 0.1 dB over on peak, acceptable for preview).
+- blackdetect: 0. silencedetect (−50 dB, 0.3 s): only 0–0.3 s before the first piano note.
+- Visual: `qc/contact_sheet_stills_v01.png`, `qc/stills_moves.png`, `qc/ends.png`. Fixed the first framing pass, which cut faces at the edges in clips 1–2.
+- **Not checked:** nobody has listened to the music; not viewed on a phone.
+
+---
+
+# Original kit (for AI-generated clips)
 
 Status: **no real footage yet.** This container cannot generate photoreal video or voices. This folder holds:
 

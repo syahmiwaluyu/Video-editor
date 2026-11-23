@@ -2,6 +2,7 @@
 # Add the exact on-screen text + lavender layers to three generated 8 s clips, join them, master the audio.
 # Put clips in ../clips as clip1.mp4, clip2.mp4, clip3.mp4 (any size; they are cropped/scaled to 1080x1920).
 # Usage (from the project folder): bash scripts/assemble.sh out/CL01_preview_v01.mp4
+#   with the procedural score:     MUSIC=out/music.wav bash scripts/assemble.sh out/CL01_preview_v01.mp4
 # Timings below are DRAFTS. Adjust them to the real dialogue in your clips (see README).
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -36,6 +37,12 @@ ffmpeg -y -hide_banner -loglevel error -t 8 -i clips/clip3.mp4 $(audio_in clips/
 # Join (hard cuts), then two-pass loudnorm to -14 LUFS / -1.5 dBTP
 ffmpeg -y -hide_banner -loglevel error -i "$T/c1.mp4" -i "$T/c2.mp4" -i "$T/c3.mp4" -filter_complex \
 "[0:v][0:a][1:v][1:a][2:v][2:a]concat=n=3:v=1:a=1[v][a]" -map "[v]" -map "[a]" "${ENC[@]}" "$T/joined.mp4"
+# Optional music bed: MUSIC=out/music.wav bash scripts/assemble.sh ...  (mixed under the clips' own audio)
+if [ -n "${MUSIC:-}" ]; then
+  ffmpeg -y -hide_banner -loglevel error -i "$T/joined.mp4" -i "$MUSIC" -filter_complex \
+  "[1:a]aresample=48000,volume=0.9[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]" \
+   -map 0:v -map "[a]" -c:v copy -c:a aac -b:a 256k -ar 48000 -ac 2 "$T/joined_m.mp4" && mv "$T/joined_m.mp4" "$T/joined.mp4"
+fi
 M=$(ffmpeg -hide_banner -nostats -i "$T/joined.mp4" -af loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json -f null - 2>&1 | sed -n '/^{/,/^}/p')
 g(){ echo "$M" | python3 -I -c "import json,sys;print(json.load(sys.stdin)['$1'])"; }
 ffmpeg -y -hide_banner -loglevel error -i "$T/joined.mp4" -map 0:v -map 0:a -c:v copy \
