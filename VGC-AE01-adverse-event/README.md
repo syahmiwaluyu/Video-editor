@@ -96,3 +96,39 @@ Video: re-encoded H.264 High, 24 fps (kept the source rate; not converted to 30)
   gives no contact point.
 - Usage terms for Gemini-generated video in your context: unverified.
 - Not tested on a phone or in any platform app.
+
+---
+
+# Combined v01 — Gemini cut + event recap (16:9, ~92 s)
+
+File: `VGC-AE01_combined_v01.mp4`. Build: `bash source/scripts/build_combined.sh ../VGC-AE01_gemini_cut_v01.mp4 assets/event_recap.mp4 ../VGC-AE01_combined_v01.mp4` (from `source/`).
+Intermediates in `out/combined/` are not committed (about 150 MB; the script rebuilds them).
+
+| Output time | Content |
+|---|---|
+| 0–29.5 s | Gemini cut v01 (A → B → C, ends on the CODE LAVENDER card) |
+| 28.7–29.5 s | 0.75 s dissolve. The recap opens from black, so this reads as a short dip to dark, then the event poster |
+| 29.5–92.2 s | Event recap `source/assets/event_recap.mp4` (user's video, 63.5 s), unchanged apart from the format conversion |
+
+Order (story first, then the real event) was **my choice**, not confirmed. The recap opens and closes on the event
+poster, so it works as the ending. Easy to swap.
+
+Format: 1280×720, **30 fps CFR**. The recap is variable-frame-rate (1617 frames in 63.5 s). The Gemini cut is 24 fps, so
+its frames are repeated to make 30 fps; that can add slight judder on slow camera moves.
+Audio: each part gain-matched to −20 LUFS (Gemini −5.4 dB, recap −9.0 dB), 0.75 s crossfade, master −14 LUFS.
+
+## Checks performed (combined)
+- ffprobe: 1280×720, 30 fps, 2765 frames, 92.2 s, H.264 High, BT.709 tagged, AAC 48 kHz stereo, 41 MB.
+- Loudness: −14.0 LUFS integrated, true peak −1.6 dBFS. silencedetect: none.
+- Join checked frame by frame (4 fps strip, `qc/new/combined_v01_join.png`).
+
+## Problems found in the recap itself (left as is, not edited)
+- **2.3 s fully black at 74.4–76.7 s** in the output (45.6–47.9 s in the recap file). Looks like a gap in the original edit.
+- Three 2-frame black flashes at 48.1, 52.1, 55.6 s (recap 19.4, 23.3, 26.8 s): probably transitions in the original.
+- Some recap shots are vertical clips with black side bars; they were already like that.
+
+## NOT checked (combined)
+- **Not listened to.** I don't know what music the recap uses or whether you have the rights to it. The same goes for
+  the people shown, speakers and audience: get consent and follow hospital media rules before publishing.
+- The recap shows hospital/ministry logos and real staff. That's fine for your own institution's use, but confirm you are allowed to post it.
+- Not tested on a phone or in any platform app.
