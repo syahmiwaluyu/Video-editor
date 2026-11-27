@@ -69,7 +69,7 @@ REVEAL = [62.6, 67.1, 74.9, 81.4, 85.9]   # source time kata kunci setiap objekt
 INTRO_REVEAL = 51.2                        # ayat "risiko pekerjaan..." (y 100-262)
 
 # kad penyampai potret (kanan)
-PCX, PCY, PCW = 1830, 1060, 560  # source
+PCX, PCY, PCW = 1800, 1060, 760  # source
 CARD_W = 340; CARD_H = int(CARD_W * 16 / 9) if False else 600
 CARD_X = W - CARD_W - 60; CARD_Y = SLY + (SLH - CARD_H) // 2
 card_sh, card_pad = shadow((CARD_W, CARD_H), 22)
@@ -144,7 +144,7 @@ def paste(canvas, im, x, y, a=1.0):
 
 def slide_panel(s):
     sl = slide2.copy(); d = ImageDraw.Draw(sl)
-    if s < INTRO_REVEAL: d.rectangle((40, 100, 1340, COL_Y[0] - 2), fill=WHITE)
+    if s < INTRO_REVEAL: d.rectangle((40, 140, 1340, COL_Y[0] - 2), fill=WHITE)
     for cx, rt in zip(COLS, REVEAL):
         p = ease((s - rt) / 0.35)
         if p < 1:  # tirai putih naik (reveal dari bawah ke atas)
@@ -168,8 +168,8 @@ def compose(t, fr):
         canvas = BG.copy(); u = s - SLIDE_FROM; p = eout(u / 0.4)
         sc = 0.94 + 0.06 * p; pw, ph = int(SLW * sc), int(SLH * sc)
         panel = slide_panel(s).resize((pw, ph), Image.BILINEAR)
-        paste(canvas, panel_sh, SLX + (SLW - pw) / 2 - panel_pad, SLY + (SLH - ph) / 2 - panel_pad + 8, min(1, u / 0.3))
-        paste(canvas, panel, SLX + (SLW - pw) / 2, SLY + (SLH - ph) / 2, min(1, u / 0.25))
+        paste(canvas, panel_sh, SLX + (SLW - pw) / 2 - panel_pad, SLY + (SLH - ph) / 2 - panel_pad + 8, min(1, 0.6 + u / 0.75))
+        paste(canvas, panel, SLX + (SLW - pw) / 2, SLY + (SLH - ph) / 2, min(1, 0.6 + u / 0.6))
         card = rounded(crop_frame(fr, PCX, PCY, PCW, CARD_W, CARD_H), 22)
         cxp = CARD_X + (1 - eout((u - 0.1) / 0.4)) * 420
         paste(canvas, card_sh, cxp - card_pad, CARD_Y - card_pad + 8); paste(canvas, card, cxp, CARD_Y)
