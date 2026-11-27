@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "studio": "remotion studio",
+    "render:full": "remotion render src/index.ts BLS-Full ../out/full_v02_raw.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell",
     "render:preview": "remotion render src/index.ts BLS-Preview ../out/preview_v01_raw.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell"
   },
   "dependencies": {

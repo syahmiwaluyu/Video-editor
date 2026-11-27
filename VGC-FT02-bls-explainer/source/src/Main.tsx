@@ -14,7 +14,7 @@ import {
   staticFile,
   useCurrentFrame,
 } from "remotion";
-import { CAMERA, INSERTS, LABELS, LOWER_THIRDS, SHOTS, Shot } from "./edl";
+import { CAMERA, INSERTS, Insert, LABELS, LOWER_THIRDS, SHOTS, Shot } from "./edl";
 import { SUBS } from "./subs";
 import { FPS, H, MEDIA_BASE, SRC_H, SRC_W, W, theme } from "./theme";
 
@@ -52,9 +52,15 @@ const cameraAt = (t: number): Shot => {
 const FRAME = { x: 258, y: 100, w: 1404, h: 790 }; // leaves a band at the bottom for subtitles
 const FADE = 0.35;
 
-const SlideInsert: React.FC<{ t: number }> = ({ t }) => {
-  const ins = INSERTS.find((i) => t >= i.in - FADE && t <= i.out + FADE);
-  if (!ins) return null;
+const SlideInserts: React.FC<{ t: number }> = ({ t }) => (
+  <>
+    {INSERTS.filter((i) => t >= i.in - FADE && t <= i.out + FADE).map((ins) => (
+      <SlideInsert key={`${ins.slide}-${ins.in}`} t={t} ins={ins} />
+    ))}
+  </>
+);
+
+const SlideInsert: React.FC<{ t: number; ins: Insert }> = ({ t, ins }) => {
   const opacity = Math.min(
     interpolate(t, [ins.in - FADE, ins.in], [0, 1], clamp),
     interpolate(t, [ins.out, ins.out + FADE], [1, 0], clamp),
@@ -121,6 +127,36 @@ const SlideInsert: React.FC<{ t: number }> = ({ t }) => {
                   opacity: o,
                 }}
               />
+            );
+          })}
+          {(ins.covers ?? []).map((c, i) => {
+            const o = interpolate(t, [c.until, c.until + 0.25], [1, 0], clamp);
+            if (o <= 0) return null;
+            const [bx, by, bw, bh] = c.box;
+            return (
+              <div
+                key={`c${i}`}
+                style={{
+                  position: "absolute",
+                  left: bx * k,
+                  top: by * k,
+                  width: bw * k,
+                  height: bh * k,
+                  borderRadius: 10,
+                  background: theme.navy2,
+                  border: `2px dashed ${theme.teal}`,
+                  color: theme.teal,
+                  fontFamily: theme.font,
+                  fontWeight: 800,
+                  fontSize: 44 * k,
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  opacity: o,
+                }}
+              >
+                ?
+              </div>
             );
           })}
         </div>
@@ -258,7 +294,7 @@ const VideoSeg: React.FC<{ seg: Extract<Seg, { kind: "video" }>; video: string }
             transform: `scale(${cam.z})`,
           }}
         />
-        <SlideInsert t={t} />
+        <SlideInserts t={t} />
         <LowerThird t={t} />
         <PointLabel t={t} tIn={seg.srcIn} />
         <Subtitle t={t} />
