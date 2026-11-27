@@ -15,3 +15,8 @@ Sumber: jawapan pemilik video dalam chat.
 - Cara betulkan slaid 9 (cadangan: buang kotak "3 JANGAN" pendua supaya jadi 5 langkah, ikut tajuk slaid).
 - Sumber 3840x1774 (~2.16:1) -> 16:9: pilih crop/zoom atau letterbox.
 - Slaid 11/14/15: pilih versi imej yang digunakan.
+
+## Explore Idea — 2026-11-27
+6. SEMUA cadangan dalam 04_explore_idea.md (A1–F2) diluluskan.
+7. Semakan transkrip: AI bersihkan transkrip ASR + senarai bahagian kabur; pemilik dengar & sahkan bahagian kabur sahaja.
+8. Identiti visual: biru slaid sedia ada + font percuma (Inter/Roboto). (Diambil dari cadangan; pemilik tidak menyatakan alternatif.)
