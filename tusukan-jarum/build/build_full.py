@@ -392,7 +392,7 @@ def compose(t, fr_):
             ys = (H - im.size[1] - 18) if slide_mode else (H - 110 - im.size[1])
             xs = (SLX + SLW / 2 - im.size[0] / 2) if slide_mode else (W - im.size[0]) / 2
             paste(canvas, im, xs, ys, min(1, (s - a2) / 0.12)); break
-    paste(canvas, DRAFT, W - DRAFT.size[0] - 20, 16)
+    if os.environ.get("FINAL") != "1": paste(canvas, DRAFT, W - DRAFT.size[0] - 20, 16)
     return canvas
 
 f0 = int(round(T0 * FPS)); f1 = int(round(min(T1, DUR) * FPS))
