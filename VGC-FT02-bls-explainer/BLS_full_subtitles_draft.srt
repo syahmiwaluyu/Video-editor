@@ -1,0 +1,687 @@
+1
+00:00:00,100 --> 00:00:03,200
+So, apabila berlakunya kecemasan,
+
+2
+00:00:03,300 --> 00:00:07,300
+contohnya kita tengok, ada seorang lelaki rebah di klinik.
+
+3
+00:00:08,300 --> 00:00:11,100
+Pesakit tidak ada respon dan tidak bernafas.
+
+4
+00:00:11,200 --> 00:00:14,100
+Anda sebagai seorang petugas kesihatan,
+
+5
+00:00:14,200 --> 00:00:16,300
+apa yang perlu anda lakukan?
+
+6
+00:00:18,600 --> 00:00:20,700
+Assalamualaikum warahmatullahi wabarakatuh.
+
+7
+00:00:20,800 --> 00:00:22,000
+Selamat pagi.
+
+8
+00:00:23,600 --> 00:00:26,000
+Hari ini kita nak berkongsi sedikit
+
+9
+00:00:26,100 --> 00:00:30,800
+pasal basic support untuk petugas kesihatan.
+
+10
+00:00:31,300 --> 00:00:34,700
+Sebelum tu, saya Muhammad Syahmi bin Mohd Sani,
+
+11
+00:00:34,900 --> 00:00:38,800
+pelajar program Bachelor of Medical Health Science,
+
+12
+00:00:39,000 --> 00:00:45,600
+kursus NBMH4143, teaching untuk healthcare professional.
+
+13
+00:00:45,700 --> 00:00:52,300
+Saya punya tutor adalah Sir Sivabalan anak lelaki Rajagopal.
+
+14
+00:00:53,300 --> 00:00:56,400
+So, apabila berlakunya kecemasan,
+
+15
+00:00:56,500 --> 00:01:00,500
+contohnya kita tengok, ada seorang lelaki rebah di klinik.
+
+16
+00:01:01,500 --> 00:01:04,300
+Pesakit tidak ada respon dan tidak bernafas.
+
+17
+00:01:04,400 --> 00:01:07,300
+Anda sebagai seorang petugas kesihatan,
+
+18
+00:01:07,400 --> 00:01:09,500
+apa yang perlu anda lakukan?
+
+19
+00:01:10,400 --> 00:01:23,300
+(peserta menjawab)
+
+20
+00:01:23,900 --> 00:01:28,800
+So, sebelum kita mula, objektif pembelajaran kita
+
+21
+00:01:28,800 --> 00:01:33,900
+ialah untuk terangkan urutan adult basic life support menggunakan DRSABCD.
+
+22
+00:01:34,000 --> 00:01:37,600
+Yang kedua, ia termasuk untuk menilai bahaya,
+
+23
+00:01:37,700 --> 00:01:41,300
+memeriksa respon dan minta bantuan serta memulakan CPR jika perlu.
+
+24
+00:01:41,400 --> 00:01:47,700
+Yang kedua, ialah menyatakan komponen utama dalam high quality CPR untuk orang dewasa.
+
+25
+00:01:47,800 --> 00:01:54,600
+First, kita tumpukan pada kedalaman tekanan, kadar tekanan
+
+26
+00:01:54,700 --> 00:01:57,100
+dan pengembangan dada penuh
+
+27
+00:01:57,200 --> 00:02:00,500
+atau full chest recoil untuk peredaran yang optimum.
+
+28
+00:02:00,600 --> 00:02:05,600
+Yang kedua, kita terangkan penggunaan AED yang selamat semasa cardiac arrest.
+
+29
+00:02:05,700 --> 00:02:10,900
+Kita kena faham langkah-langkah menghidupkan, memasang pad dan mengikuti arahan pada suara peranti.
+
+30
+00:02:11,000 --> 00:02:12,700
+Okay, faham?
+
+31
+00:02:14,000 --> 00:02:16,300
+Okay, sebelum kita mula tu,
+
+32
+00:02:16,400 --> 00:02:20,900
+kita nak terangkan pengenalan BLS dan chain of survival.
+
+33
+00:02:21,000 --> 00:02:25,400
+Dia ada 4 chain of survival dalam BLS. Yang pertama,
+
+34
+00:02:26,400 --> 00:02:29,800
+early access. Early access tu macam mana?
+
+35
+00:02:31,000 --> 00:02:35,100
+Early access tu sampai dapat kenal pasti.
+
+36
+00:02:36,200 --> 00:02:40,000
+Bila kita dapat kenal pasti, kita buat early CPR.
+
+37
+00:02:40,100 --> 00:02:46,200
+Okay, lepas tu bila dah early CPR, early defib.
+
+38
+00:02:46,300 --> 00:02:52,600
+Lepas tu, early ALS atau post-resuscitation care.
+
+39
+00:02:52,700 --> 00:02:58,100
+So, empat-empat komponen ni penting dalam BLS untuk memastikan kita dapat kualiti CPR.
+
+40
+00:03:02,400 --> 00:03:06,000
+Cardiac arrest, ataupun sudden cardiac arrest, apa maksudnya?
+
+41
+00:03:10,700 --> 00:03:13,600
+Jantung tu berhenti secara tiba-tiba dan tidak dijangka,
+
+42
+00:03:13,700 --> 00:03:17,100
+macam kita tengah makan atau apa-apa aktiviti.
+
+43
+00:03:17,200 --> 00:03:19,300
+Jantung tu tak bergerak.
+
+44
+00:03:20,000 --> 00:03:21,300
+Yang kedua,
+
+45
+00:03:24,500 --> 00:03:28,200
+aliran darah ke otak. Dia penting jantung ni
+
+46
+00:03:28,300 --> 00:03:31,100
+supaya aliran darah ke otak tu tidak terhenti lah.
+
+47
+00:03:31,200 --> 00:03:36,900
+Tanda-tanda dia: tidak responsif, pernafasannya tidak normal,
+
+48
+00:03:37,000 --> 00:03:40,700
+tiada nadi ataupun tiada aktiviti kehidupan.
+
+49
+00:03:40,800 --> 00:03:44,700
+Kalau apa pun yang berlaku dalam kategori ni,
+
+50
+00:03:44,800 --> 00:03:48,100
+kita kena ambil tindakan segera. Tindakan apa?
+
+51
+00:03:50,200 --> 00:03:54,500
+Danger first. First kita kena pastikan danger.
+
+52
+00:03:54,600 --> 00:03:58,500
+Danger kita kena pastikan ada tiga benda. Yang first,
+
+53
+00:03:58,600 --> 00:04:04,500
+kita sendiri, patient, dengan persekitaran.
+
+54
+00:04:04,600 --> 00:04:08,800
+Kalau untuk kita, at least kita kena pakai PPE:
+
+55
+00:04:10,300 --> 00:04:11,800
+glove, …, mask.
+
+56
+00:04:12,600 --> 00:04:18,500
+Untuk persekitaran, macam mana kalau kebakaran tu, kita kena keluar daripada kebakaran tu.
+
+57
+00:04:20,400 --> 00:04:25,900
+Yang kedua, check response. Macam mana kita nak check response kat patient?
+
+58
+00:04:28,500 --> 00:04:32,400
+Kita tap shoulder ni, kita tepuk bahu: "Okay, are you okay?"
+
+59
+00:04:32,900 --> 00:04:34,500
+Kalau dia tak ada bagi response,
+
+60
+00:04:37,200 --> 00:04:41,300
+kita shout for help. Macam mana nak bagi shout for help?
+
+61
+00:04:43,400 --> 00:04:50,200
+Kalau untuk healthcare worker, contoh kat wad ke apa, kita call bell tu, code blue, kita tekan.
+
+62
+00:04:52,500 --> 00:04:57,500
+Kita tekan, lepas tu minta seorang untuk bawa emergency trolley.
+
+63
+00:04:59,400 --> 00:05:02,200
+So kalau kat luar, kita shout lah kan.
+
+64
+00:05:02,300 --> 00:05:05,100
+Kita suruh orang, kita kena assign khusus.
+
+65
+00:05:05,200 --> 00:05:09,000
+Contohnya, "… tolong call 999, bawa AED."
+
+66
+00:05:10,700 --> 00:05:16,500
+Yang ketiga, yang keempat, open airway.
+
+67
+00:05:17,400 --> 00:05:18,800
+Open airway macam mana?
+
+68
+00:05:18,900 --> 00:05:24,800
+Untuk open airway, kita buat head tilt-chin lift.
+
+69
+00:05:24,900 --> 00:05:29,600
+Kalau patient trauma, kita tak galakkan, kita buat jaw thrust.
+
+70
+00:05:29,700 --> 00:05:34,800
+Cara nak open airway: kita pegang dagu dia,
+
+71
+00:05:38,900 --> 00:05:41,300
+kita tolak sikit, open airway dia.
+
+72
+00:05:41,400 --> 00:05:46,900
+Kita tak galakkan pegang kawasan ni, takut tutup airway tu.
+
+73
+00:05:51,200 --> 00:05:55,900
+A, B, C, D ni kita jalankan serentak. Kita open airway,
+
+74
+00:05:56,000 --> 00:06:00,700
+lepas tu kita tengok ada chest rise. Kita look, feel and listen.
+
+75
+00:06:01,500 --> 00:06:03,600
+Kita rasa dia punya hembusan ke tak.
+
+76
+00:06:04,200 --> 00:06:07,500
+Kalau tak ada chest rise, tak ada breathing,
+
+77
+00:06:08,600 --> 00:06:12,700
+sambil kita buka airway tu, kita rasa juga dia punya carotid pulse.
+
+78
+00:06:13,300 --> 00:06:17,700
+Kita check pulse untuk adult, kita check kawasan carotid.
+
+79
+00:06:18,400 --> 00:06:21,400
+So bila tak ada pulse, tak ada breathing, so kita terus…
+
+80
+00:06:22,400 --> 00:06:29,400
+So kena ingat, check pernafasan, check pulse, semua ni less than 10 seconds, semua jalan sekali.
+
+81
+00:06:30,800 --> 00:06:35,900
+Kita check pulse tadi, kalau tak ada, teruskan compression.
+
+82
+00:06:37,500 --> 00:06:44,000
+D, defib. Kalau ada defib, AED dah sampai, kita pasang AED lah.
+
+83
+00:06:50,200 --> 00:06:56,400
+Danger: PPE yang sesuai. Perhatikan darah atau objek tajam ataupun wayar elektrik.
+
+84
+00:06:56,500 --> 00:06:59,800
+Response: tap shoulder, okay?
+
+85
+00:06:59,900 --> 00:07:05,000
+Shout for help: aktifkan bantuan kecemasan dan minta AED, troli resusitasi.
+
+86
+00:07:06,300 --> 00:07:11,800
+Okay, untuk airway, kita buka, head tilt-chin lift tadi lah.
+
+87
+00:07:11,900 --> 00:07:16,900
+Lepas tu breathing: tengok, nilai 10 saat, tengok ada pernafasan normal ke tak.
+
+88
+00:07:17,700 --> 00:07:23,800
+Circulation: petugas kesihatan perlu menilai nadi mengikut latihan atau protokol.
+
+89
+00:07:23,900 --> 00:07:27,200
+Sekiranya tiada, terus buat compression.
+
+90
+00:07:30,300 --> 00:07:36,200
+Bila kita lakukan compression, dia ada 5 elemen high quality CPR.
+
+91
+00:07:47,300 --> 00:07:51,100
+30 compression.
+
+92
+00:07:51,200 --> 00:07:57,200
+Yang pertama, dia punya rate pada sekarang 100 ke 120 per minute.
+
+93
+00:07:57,300 --> 00:08:00,100
+Kedalamannya 5 cm.
+
+94
+00:08:00,200 --> 00:08:04,500
+Bagaimana kita nak tahu 5 cm tu? Kita ukur pakai pembaris?
+
+95
+00:08:07,000 --> 00:08:12,600
+Bila kita tekan tu, macam bawah tu ada sekeras, itu anggaran 5 cm.
+
+96
+00:08:12,700 --> 00:08:17,400
+Lepas tu last kali, minimal interruption.
+
+97
+00:08:18,100 --> 00:08:22,500
+Contohnya kalau nak pasang AED, AED tu dah buka dulu siap-siap.
+
+98
+00:08:23,000 --> 00:08:27,200
+Kita tak nak tengah compress, berhenti, baru nak buka AED.
+
+99
+00:08:27,300 --> 00:08:32,800
+So kita nak melakukan demonstrasi.
+
+100
+00:08:32,900 --> 00:08:37,600
+So kalau untuk dewasa, 30 : 2.
+
+101
+00:08:39,200 --> 00:08:47,300
+So, demo compression ni, kita letak tangan kita kat middle sternum.
+
+102
+00:08:47,900 --> 00:08:59,700
+Okay, so kita tekan, kita pakai heel of palm.
+
+103
+00:08:59,700 --> 00:09:04,800
+Kita tekan, kita lock kita punya siku…
+
+104
+00:09:17,200 --> 00:09:23,100
+Yang terakhir, D, defib.
+
+105
+00:09:23,500 --> 00:09:27,300
+Defib, apa maksudnya defib?
+
+106
+00:09:27,400 --> 00:09:37,500
+Defib adalah satu peralatan mudah alih yang berkuasa bateri untuk menganalisis rentak jantung.
+
+107
+00:09:38,600 --> 00:09:45,000
+Kalau AED, untuk cardiac arrest, kita dapat selamatkan dia 70% ke 80%.
+
+108
+00:09:45,400 --> 00:09:49,100
+Kalau kita melakukan CPR sahaja, 5–6% saja.
+
+109
+00:09:52,400 --> 00:09:56,800
+Bila contohnya AED dah sampai, contohnya ini cardiac monitor,
+
+110
+00:09:56,900 --> 00:10:01,400
+tapi pada monitor ni, dia ada function khas dia, AED.
+
+111
+00:10:02,000 --> 00:10:08,200
+So kita tak perlu nak tahu rhythm. Kalau orang awam, dia tak boleh nak baca rhythm,
+
+112
+00:10:09,200 --> 00:10:13,100
+untuk melakukan defib, so dia akan automatik.
+
+113
+00:10:13,200 --> 00:10:18,700
+So bila kita dah on, orang yang tengah CPR tu, dia terus compress sahaja.
+
+114
+00:10:19,700 --> 00:10:24,100
+Lepas tu, bila kita dah on, kita attach dia punya pad.
+
+115
+00:10:24,200 --> 00:10:29,800
+Pad ni kita attach kawasan sini ke sini.
+
+116
+00:10:37,500 --> 00:10:42,200
+Ya, betul. Bila kita attach tu, lepas tu dia akan bagi arahan:
+
+117
+00:10:43,000 --> 00:10:45,500
+"Don't touch patient, analysing rhythm."
+
+118
+00:10:50,500 --> 00:10:54,400
+Pastikan tiada siapa yang menyentuh semasa analisis dan kejutan.
+
+119
+00:10:55,200 --> 00:10:58,400
+Kalau dia kata continue CPR, kita terus.
+
+120
+00:10:59,200 --> 00:11:05,800
+Kalau dia kata shock advised, kita akan tekan butang shock di sini.
+
+121
+00:11:10,800 --> 00:11:15,300
+Okay, ini tindakan selepas defib tu.
+
+122
+00:11:15,400 --> 00:11:20,500
+Kita dah pasang defib, dia ada shock advised dengan no shock advised.
+
+123
+00:11:20,600 --> 00:11:24,400
+Kalau shock advised tu, kena pastikan semua orang jauh.
+
+124
+00:11:26,200 --> 00:11:29,500
+Selepas, kita gunakan: "You clear, I clear, everybody clear."
+
+125
+00:11:30,000 --> 00:11:33,300
+Okay, tindakan selepas buat CPR tu,
+
+126
+00:11:35,300 --> 00:11:39,000
+selepas bagi shock tu, kita teruskan CPR selama 2 minit
+
+127
+00:11:39,100 --> 00:11:42,500
+dan sehingga AED minta balik.
+
+128
+00:11:42,600 --> 00:11:45,800
+Kita continue compress, lepas tu dah 2 minit tu,
+
+129
+00:11:46,700 --> 00:11:50,500
+AED tu akan automatik stop CPR, analysing rhythm.
+
+130
+00:11:51,400 --> 00:11:54,700
+Lepas tu kalau no shock advised, sambung CPR. Dia akan bagi arahan,
+
+131
+00:11:54,800 --> 00:12:01,200
+dia sama ada bagi pada skrin tu ataupun bagi secara audio.
+
+132
+00:12:04,400 --> 00:12:06,300
+Soalan.
+
+133
+00:12:08,100 --> 00:12:11,000
+Apakah maksud D dalam DRSABCD?
+
+134
+00:12:11,100 --> 00:12:13,100
+(peserta) Danger. — Danger, betul.
+
+135
+00:12:14,600 --> 00:12:17,700
+Berapa kadar mampatan untuk dewasa?
+
+136
+00:12:17,800 --> 00:12:20,200
+(peserta) 100–120.
+
+137
+00:12:21,200 --> 00:12:24,300
+Apakah kedalaman mampatan tu?
+
+138
+00:12:26,100 --> 00:12:28,400
+(peserta) 5–6.
+
+139
+00:12:37,400 --> 00:12:42,200
+Selepas AED bagi arahan, apakah tindakan yang seterusnya?
+
+140
+00:12:43,300 --> 00:12:44,900
+(peserta) CPR.
+
+141
+00:12:48,600 --> 00:12:53,700
+Kalau AED tu bagi arahan shock advised…
+
+142
+00:12:55,400 --> 00:12:59,400
+Clear… everybody clear, tekan shock.
+
+143
+00:13:06,400 --> 00:13:07,800
+Rumusannya.
+
+144
+00:13:11,800 --> 00:13:15,700
+So untuk basic life support ni, ni dia punya mantra dia lah:
+
+145
+00:13:15,800 --> 00:13:19,300
+D-R-S-A-B-C-D.
+
+146
+00:13:19,400 --> 00:13:24,600
+D, defib. Kalau ada, kita dapat bantu dia dengan cepat lah.
+
+147
+00:13:25,200 --> 00:13:28,400
+Untuk last kali, high quality CPR.
+
+148
+00:13:28,500 --> 00:13:31,600
+Yang pertama, rate 100 ke 120.
+
+149
+00:13:32,500 --> 00:13:34,600
+Push hard,
+
+150
+00:13:34,700 --> 00:13:39,400
+lepas tu dia punya 30 : 2. Kedalaman 5–6 cm.
+
+151
+00:13:40,300 --> 00:13:42,800
+Full chest recoil. Full chest recoil ni macam mana?
+
+152
+00:13:44,900 --> 00:13:49,100
+Dia macam spring, kita tekan, naik balik.
+
+153
+00:13:49,200 --> 00:13:53,800
+Bukan macam ni, dia kena naik balik.
+
+154
+00:13:53,900 --> 00:13:56,700
+Last kali, minimal interruption.
+
+155
+00:13:56,800 --> 00:14:01,900
+Dia akan ada interruption, contohnya tengah CPR tu,
+
+156
+00:14:02,000 --> 00:14:07,900
+ataupun sementara nak tukar, change CPR tu, itu interruption.
+
+157
+00:14:08,000 --> 00:14:09,700
+So kita kena minimumkan.
+
+158
+00:14:11,400 --> 00:14:16,400
+So yang paling penting, chain of survival: early access, early CPR,
+
+159
+00:14:16,500 --> 00:14:21,600
+early defib, early ALS ataupun post-resuscitation care.
+
+160
+00:14:22,300 --> 00:14:25,900
+So kalau dah ada pulse, dah ada breathing,
+
+161
+00:14:26,000 --> 00:14:32,000
+so cara nak buat recovery position.
+
+162
+00:14:38,400 --> 00:14:40,900
+Supaya kita dapat pantau dia lah.
+
+163
+00:14:57,600 --> 00:15:00,800
+Kalau macam nak tunggu ICU ke, masuk ICU ke,
+
+164
+00:15:06,400 --> 00:15:08,800
+Ni antara rujukan saya:
+
+165
+00:15:09,900 --> 00:15:15,000
+MOH NCORT BLS Subcommittee 2021–2025,
+
+166
+00:15:15,100 --> 00:15:21,900
+National Committee on Resuscitation Training Guidelines,
+
+167
+00:15:23,000 --> 00:15:27,300
+ILCOR Consensus on CPR and ECC Science 2020,
+
+168
+00:15:27,400 --> 00:15:32,600
+European Resuscitation Council Guidelines for Resuscitation 2021,
+
+169
+00:15:33,800 --> 00:15:39,100
+American Heart Association Guidelines Update for CPR and ECC 2020.
+
+170
+00:15:39,200 --> 00:15:42,800
+Ini antara rujukan yang kita praktikkan.
+
+171
+00:15:47,700 --> 00:15:50,100
+Ada apa-apa soalan?
+
+172
+00:15:54,600 --> 00:15:56,200
+Terima kasih.
