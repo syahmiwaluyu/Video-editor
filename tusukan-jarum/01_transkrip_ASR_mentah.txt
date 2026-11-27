@@ -1,0 +1,434 @@
+# TRANSKRIP ASR MENTAH (faster-whisper medium, auto). BELUM disemak manusia. Banyak salah dengar; jangan guna terus untuk sari kata. Timecode = SOURCE timecode video asal (saat). Nombor dalam kurungan = avg_logprob (lebih negatif = kurang yakin).
+[   0.00-   3.86] (-0.46) Assalamualaikum warahmatullahi wabarakatuh dan salam sejahtera.
+[   4.30-   8.98] (-0.46) Ok, hari ini saya akan mengajar tentang pengurusan dan pengurusan
+[   8.98-  12.70] (-0.46) kecederaan tusukan jarum dalam talangan anggota perjagaan kesihatan.
+[  12.94-  19.14] (-0.46) Ini bagi subjek MDMH 4143-2002 yaitu microteaching.
+[  19.60-  24.98] (-0.46) Ok, nama saya Anwar Anturidhuman Muhammad dari program vegetable of medical and health science
+[  24.98-  30.30] (-0.25) dan tuker saya yaitu Sir Abdul Rahimi bin Abdul Kagirah.
+[  30.30-  40.20] (-0.25) Ok, hari ini kita akan tengok langkah-langkah yang untuk mengatasi
+[  41.40-  45.34] (-0.25) kecederaan tusukan jarum di kawasan klinikalah.
+[  46.48-  52.13] (-0.25) Ok, ini adalah objektif pembelajaran kita pada hari ini yaitu
+[  52.13-  58.19] (-0.30) Risiko pekerjaan semasa prosedur klinika yang meledakkan kepada darah atau cecair badan yang berjagik.
+[  58.75-  65.55] (-0.30) Ok, yang pertama kita tengok, di sini kita akan tengok dari segi 3 jagitan bawaan darah bersama.
+[  65.85-  71.15] (-0.30) Lagi kedua kita akan pergi kepada mengenal pasti 4 langkah perjagaan proaktif.
+[  72.01-  79.13] (-0.30) Yang ketiga, di sini kita akan dapat menerangkan 5 tidakan awal pasal kecederaan.
+[  79.13-  84.97] (-0.27) Keempat itu kita dapat mengendalikan perubusan jarum secara selamat
+[  84.97-  90.31] (-0.27) dan terakhir sekali melaporkan dan menerangkan risiko secara bertanggungjawab.
+[  93.78-  96.53] (-0.27) Pertama kali kita pergi kepada definisi.
+[  96.85- 103.39] (-0.27) Definisi yaitu, definisi tusukan jarum ini adalah insiden di mana jarum atau alat tajam
+[ 103.39- 109.75] (-0.36) menembusi kulit luar, meledakkan sistem tubuh kepada darah atau cecair badan
+[ 109.75- 112.31] (-0.36) yang berkontensi membawa jagitan.
+[ 113.43- 120.39] (-0.36) Dia disebabkan jarum, kita dah inject passion, tiba-tiba kita tak tahu passion akan disakit apa.
+[ 120.65- 121.99] (-0.36) Tiba-tiba terjujub kita.
+[ 122.33- 124.25] (-0.36) Itulah, kita nak tengok perubusan ini macam mana.
+[ 125.45- 126.41] (-0.36) Ok, tusukan langsung.
+[ 127.03- 131.01] (-0.36) Luka akibat jarum, alat tajam terserah, contoh selepas pengambilan darah kesakit.
+[ 131.01- 132.57] (-0.31) Seperti yang saya cari tadi.
+[ 133.11- 136.15] (-0.31) Yang terbuat itu percikkan mumpusam.
+[ 136.19- 139.09] (-0.31) Cecair badan yang terpercik ke membrane mumpus.
+[ 139.27- 141.19] (-0.31) Yaitu mata ataupun ronggong mudalah.
+[ 141.75- 144.01] (-0.31) Yang ketiga adalah sentuhan luka terbuka.
+[ 144.73- 148.37] (-0.31) Darah berrisiko terkena pada kulit yang tidak tutup.
+[ 148.79- 150.57] (-0.31) Luka sedia ada ataupun ezima.
+[ 152.61- 157.31] (-0.31) Terusnya, kita pergi kepada tiga tonggak keselamatan kita.
+[ 158.03- 159.03] (-0.31) Di kawasan klinik kita.
+[ 159.03- 162.17] (-0.30) Ok, ekosisnya, perjagaan keselamatan yang selamat.
+[ 162.39- 164.37] (-0.30) Yang pertama, keselamatan angkota.
+[ 164.47- 169.59] (-0.30) Keselamatan angkota klinik mengurangkan risiko jangkitan penyakit pekerjaan.
+[ 170.49- 174.41] (-0.30) Dan mengenimumkan kesan trauma, emosi selepas kejadian terserah.
+[ 174.57- 176.71] (-0.30) Yang kedua, keselamatan keselamatan keselamatan sendiri.
+[ 176.83- 179.13] (-0.30) Yang itu membendayakan amalan diri kita yang selamat.
+[ 180.01- 183.29] (-0.30) Dan menggalakkan penggali alat tajam yang sangat terkawal.
+[ 183.49- 185.49] (-0.30) Dan yang tak keselamatan adalah keselamatan tempat kerja kita.
+[ 185.49- 190.67] (-0.39) Yang ketiga, keselamatan melakukannya tanpa rasa takut.
+[ 191.39- 196.65] (-0.39) Membilang risiko secara berterusan dan menambah baik SOP di kawasan klinik kita.
+[ 200.33- 206.97] (-0.39) Ini adalah profil 3 jangkitan yang bawaan daripada larang pertama.
+[ 207.61- 214.11] (-0.31) Dan pertama, kita boleh dapatkan penyakit daripada hypertitis B, yaitu HBV.
+[ 214.55- 219.11] (-0.31) Sasaran penyakit ini adalah hadiah virus yang sangat mudah berjangkit kepada kita.
+[ 220.09- 229.07] (-0.31) Kami akan menilai status imunisasi tajam antibody dan perlindungan sedia adil kepada angkota.
+[ 229.53- 233.43] (-0.31) Yang kedua, yaitu hypertitis C, yaitu HCV.
+[ 233.43- 242.33] (-0.44) Sasaran hati juga, penyakit ini akan adapt ke hati, yaitu muncul jangkitan ekotik berlanjutan dan kronik.
+[ 242.63- 247.51] (-0.44) Tindakan kliniknya, pemandangan dan penilaian telan yang kepanjang diperlukan.
+[ 247.55- 249.89] (-0.44) Yang diawasi untuk penyakit hypertitis C.
+[ 251.53- 257.29] (-0.44) Yang terakhir sekali, yaitu human immunary syncy virus, yaitu HIV.
+[ 257.75- 260.15] (-0.44) Sataran dia kepada sistem imun.
+[ 261.99- 270.15] (-0.32) Tindakan kliniknya, kita perlu menilai perkemasan segera untuk memulakan profil aktif terlepas oleh hati, yaitu PEPR.
+[ 272.61- 281.35] (-0.32) Risiko artidromisi bergantung kepada jenis besar alat, kedalaman buka, jenis alat dan jangkitan sumber.
+[ 283.07- 290.01] (-0.38) Seterusnya, ini adalah anotomi, risiko, faktor yang bergantung kepada kedalaman trusukan jarum di kawasan klinika.
+[ 290.51- 291.85] (-0.38) Yang pertama, faktor manusia.
+[ 292.51- 294.45] (-0.38) Sebenarnya, kita kan lebih klinika.
+[ 294.67- 298.73] (-0.38) Faktor kita adalah manusia, bukan kursi atau apa-apa.
+[ 300.71- 303.73] (-0.38) Berkerja dalam keadaan tergesa-gesa atau keadaan berbehan.
+[ 305.31- 310.57] (-0.38) Dan kemudian terganggu semasa prosedur klinika yang ketiga, faktor manusia.
+[ 310.57- 312.85] (-0.42) Faktor yang kedua adalah faktor persekitaran.
+[ 313.15- 315.65] (-0.42) Bekas benda tajam, tidak berada perhampiran lokasi persekitaran.
+[ 317.03- 320.67] (-0.42) Contohnya, syap hidup jauh atau trolley berjauh.
+[ 320.77- 321.91] (-0.42) Kita amat tak capat terlalu banyak.
+[ 322.93- 326.93] (-0.42) Dan kemudian, jarum yang terpakai digunakan secara berbahaya di atas trolley.
+[ 327.07- 331.21] (-0.42) Dan yang ketiga, bekas penumpusan dalam bawa penuh atau menyalahi arahan.
+[ 331.51- 334.59] (-0.42) Jika penuh, kita langsung-langsung, kita tutup tangan.
+[ 335.29- 338.51] (-0.42) Dan kemudian, yang ketiga adalah faktor pengendalian.
+[ 338.51- 343.77] (-0.42) Faktor pengendalian ini adalah memasang semua yang penutup jarum secara memoir.
+[ 343.97- 344.51] (-0.42) Recapping.
+[ 344.75- 345.57] (-0.42) Punca pada pertama.
+[ 345.87- 348.43] (-0.42) Kita dah cucuk Asia, lepas itu dah langsung, kita nak recap.
+[ 348.73- 349.61] (-0.42) Itu tak boleh, kan?
+[ 350.63- 352.71] (-0.42) Tergagalah mematuhi arahan pengantikan.
+[ 353.07- 354.33] (-0.42) Beranti keselamatan tajam.
+[ 354.75- 360.39] (-0.42) Dan ketiga adalah penyerahan alat tajam secara cuai antara tugas penyerahan.
+[ 360.55- 362.97] (-0.42) Jika memakai jarum itu, tak ada keselamatan ketiga.
+[ 363.17- 364.67] (-0.42) Tiba-tiba baru ke luar, kecucuk ke luar.
+[ 366.43- 369.67] (-0.40) Sebab kita cuai, nanti orang lain pun tak nak sakit.
+[ 372.19- 375.79] (-0.40) Protokol penjagaan sepanjang spektrum proseduran.
+[ 376.11- 380.63] (-0.40) Protokol proseduran ini kita akan ikutkan pasal-pasal sebelum masa yang sempat.
+[ 381.31- 383.49] (-0.40) Yang pertama adalah pasal yang pertama sebelum.
+[ 384.01- 386.31] (-0.40) Rancang langkah-langkah secara mentor.
+[ 386.65- 388.03] (-0.40) Susumkan kerja sepanjang peraturan.
+[ 388.31- 389.65] (-0.40) Seria beranti keselamatan.
+[ 389.83- 391.57] (-0.40) Pastikan berkasi semangat cepat.
+[ 392.33- 394.49] (-0.38) Semua alat tajam yang kita nak buat,
+[ 394.53- 397.63] (-0.38) nak ambil prosedur untuk garansi ke apakah,
+[ 398.21- 400.51] (-0.38) kita kena prepare, biar kemas.
+[ 401.83- 403.17] (-0.38) Memakai tarangan ke apa.
+[ 403.31- 404.47] (-0.38) Sebelum itu kita kena prepare.
+[ 405.55- 407.35] (-0.38) Yang kedua adalah semasa,
+[ 407.53- 409.39] (-0.38) pendalikan jarum, kena fokus sebelumnya.
+[ 409.61- 412.65] (-0.38) Elakkan memasang semula, penutup jarum.
+[ 412.93- 414.87] (-0.38) No capping. Jangan pasang balik.
+[ 415.01- 415.97] (-0.38) Jangan recap balik.
+[ 416.17- 419.65] (-0.38) Dan latihkan ciri keselamatan sepenuhnya.
+[ 419.65- 422.13] (-0.40) Ok, pasal yang ketiga adalah selepas.
+[ 422.37- 425.81] (-0.40) Selepas, lupuskan alat tajam serta mata.
+[ 426.31- 428.75] (-0.40) Tanpa manipulasi. Jangan patahkan.
+[ 429.23- 430.67] (-0.40) Lupuskan, jangan patahkan.
+[ 431.05- 432.25] (-0.40) Lebih-lebih patahkan daripada rumput.
+[ 432.73- 433.05] (-0.40) Tak boleh.
+[ 433.57- 436.97] (-0.40) Dan gunakan keadah pemindahan yang selamat dalam percintaan itu.
+[ 437.31- 438.99] (-0.40) Lebih-lebihnya, pasal semuanya,
+[ 439.09- 442.53] (-0.40) termasukkan dalam cijik buka itu semua.
+[ 443.49- 444.43] (-0.40) Kita kena jaga.
+[ 444.83- 445.79] (-0.40) Jangan terjujur tangan semua.
+[ 447.81- 450.41] (-0.24) Terusnya, ini adalah krisik mentelak.
+[ 450.67- 452.49] (-0.24) Krisik mentelak, perlupusan benda tajam.
+[ 452.89- 457.05] (-0.24) Ini adalah krisik-krisik untuk kita buat perlupusan benda tajam.
+[ 457.93- 458.77] (-0.24) Kita perlu lakukan.
+[ 459.13- 460.73] (-0.24) Kita pergi yang betul dulu.
+[ 461.53- 463.67] (-0.24) Lakukan. Lupus terus alat tajamak
+[ 463.67- 467.61] (-0.24) ke dalam bekas-bekas tahan diusupkan di lokasi prosedur.
+[ 468.43- 471.53] (-0.24) Kena pergi alat tajamak itu kita terus buang.
+[ 472.25- 474.27] (-0.24) Pastikan bekas perangai dalam keadaan stabil,
+[ 474.27- 476.61] (-0.53) tidak rosak dan berkutuk rapat.
+[ 476.67- 478.01] (-0.53) Dengan kita buka periola itu,
+[ 478.85- 479.65] (-0.53) kita kena kacau kembali.
+[ 480.41- 481.93] (-0.53) Kena kacau, kena kacau. Habis.
+[ 482.65- 485.01] (-0.53) Berikan bekas dengan segera apabila isi,
+[ 485.09- 486.03] (-0.53) mencapai tahap maksimum.
+[ 486.03- 487.57] (-0.53) Biasanya, 3.4 kaki penuh,
+[ 487.71- 488.75] (-0.53) biarkan dia dirimu.
+[ 491.57- 493.27] (-0.53) Kalau kita tengok Shafiq,
+[ 493.45- 494.79] (-0.53) dia tak boleh tengok.
+[ 495.09- 495.75] (-0.53) Ada perisai di belakang.
+[ 497.05- 499.07] (-0.53) Jangan lepasi. Jangan lepasi isi.
+[ 500.57- 501.65] (-0.53) Tapi kita tengok.
+[ 501.65- 502.49] (-0.42) Lagi-lagi kita tengok tak,
+[ 502.53- 504.09] (-0.42) dia kena penuh.
+[ 504.09- 504.95] (-0.42) Tak tahu.
+[ 506.07- 507.17] (-0.42) Itu kena tukar.
+[ 508.99- 511.07] (-0.42) Seterusnya, jangan lakukan.
+[ 511.77- 513.33] (-0.42) Jangan memasang perempuan jarum
+[ 513.33- 515.11] (-0.42) menggunakan kedua-dua belah tangan.
+[ 515.29- 516.29] (-0.42) Kita recap lagi.
+[ 517.17- 518.23] (-0.42) Kedua-dua belah tangan.
+[ 518.37- 519.73] (-0.42) Kita recap dan cukup tangan.
+[ 520.75- 523.45] (-0.42) Jangan melolak isi atau memasang jarum
+[ 523.45- 525.89] (-0.42) masuk ke dalam bekas periolaan dengan tangan.
+[ 526.05- 526.79] (-0.42) Dia kena...
+[ 526.79- 527.59] (-0.42) Dia kena penuh.
+[ 530.99- 531.63] (-0.42) Ini...
+[ 531.63- 532.49] (-0.36) Cukup tangan.
+[ 533.33- 534.37] (-0.36) Kena memasang.
+[ 535.17- 536.77] (-0.36) Terusnya, yang terakhir sekali.
+[ 536.87- 538.21] (-0.36) Jangan biarkan jarum tercuma.
+[ 538.35- 542.43] (-0.36) Dia tak akan kembali ke dalam gulau terdepan digunakan.
+[ 542.85- 544.07] (-0.36) Jangan tak boleh dalam.
+[ 544.51- 544.73] (-0.36) Akhirnya ini.
+[ 549.56- 552.72] (-0.36) Seterusnya, kita pergi kepada protocol kecemasan.
+[ 552.98- 554.34] (-0.36) Lima langkah segalanya.
+[ 554.48- 555.56] (-0.36) Pasangkan kecemasan.
+[ 555.96- 557.84] (-0.36) Yang pertama ini, kita tengok
+[ 557.84- 559.68] (-0.36) apa yang perlu kita lakukan
+[ 559.68- 561.50] (-0.36) jika berlaku,
+[ 561.50- 563.42] (-0.32) untuk menutuskan jarum kepada rakan kita
+[ 563.42- 564.48] (-0.32) atau orang kita sendiri.
+[ 565.18- 566.58] (-0.32) Yang pertama, adat hentikan.
+[ 567.44- 568.86] (-0.32) Berhenti melakukan prosedur.
+[ 569.00- 570.42] (-0.32) Lengah segera.
+[ 570.72- 573.00] (-0.32) Pastikan keselamatan kawasan kecil sementara.
+[ 573.68- 574.16] (-0.32) Kita tengok.
+[ 574.50- 574.86] (-0.32) Kita lecucuk.
+[ 575.06- 575.74] (-0.32) Kita stop.
+[ 576.18- 577.30] (-0.32) Stop ambil darah dan sebagainya.
+[ 577.84- 578.82] (-0.32) Kita stop kereta.
+[ 580.06- 582.04] (-0.32) Dan kemudian, kita pergi ke kedua, yaitu basuh.
+[ 582.18- 584.02] (-0.32) Kita pergi ke sisi, terus basuh.
+[ 584.90- 586.12] (-0.32) Basuh dengan air.
+[ 586.60- 587.54] (-0.32) Air dengan sambut.
+[ 587.92- 590.30] (-0.32) Jangan gunakan agent kuas tip keras.
+[ 591.66- 594.76] (-0.41) Jangan gunakan handrap dan sebagainya.
+[ 595.60- 597.90] (-0.41) Yang ketiga, jangan dilarang sama sekali
+[ 597.90- 599.58] (-0.41) menggosok luka secara agresif
+[ 599.58- 601.48] (-0.41) atau memperah atau memijik luka.
+[ 602.10- 602.96] (-0.41) Mengeluarkan darah lagi.
+[ 603.14- 605.62] (-0.41) Itu dah berbaloi daripada
+[ 605.62- 606.32] (-0.41) terdedah lagi.
+[ 610.30- 612.46] (-0.41) Yang keempat, itu lapu.
+[ 613.04- 614.44] (-0.41) Kita lapu segera kepada
+[ 614.44- 615.52] (-0.41) penyelidik untuk tugas atau
+[ 615.52- 616.72] (-0.41) penyelidik keselamatan yang disiapkan.
+[ 616.72- 617.38] (-0.39) Lepas itu, kita lapu.
+[ 617.92- 620.18] (-0.39) Kita akan lapu kepada
+[ 620.18- 622.22] (-0.39) jodoh kalau dekat huat ke apa.
+[ 622.44- 623.90] (-0.39) Kita terus kepada sistem.
+[ 624.52- 626.46] (-0.39) Kemudian, sistem akan lapu kepada
+[ 626.46- 627.84] (-0.39) juridik-jadid.
+[ 628.12- 629.88] (-0.39) Dan, terakhir sekali,
+[ 630.00- 631.42] (-0.39) tampilkan diri untuk penyelidikan
+[ 631.42- 633.40] (-0.39) perubatan pakar segera bagi menentukan
+[ 633.40- 635.64] (-0.39) tahap risiko ujian dan perawatan.
+[ 636.42- 638.04] (-0.39) Kami ingat, sejak itu,
+[ 638.50- 639.82] (-0.39) berlaku kecemasan,
+[ 639.82- 642.06] (-0.47) bahkan kita perlu
+[ 642.06- 644.06] (-0.47) terus buat perubatan.
+[ 647.25- 649.11] (-0.47) Analisis risiko, dimensi
+[ 649.11- 650.05] (-0.47) perubatan.
+[ 650.59- 651.45] (-0.47) Yang pertama, kita tengok
+[ 651.45- 652.57] (-0.47) dimensi juga.
+[ 653.11- 654.31] (-0.47) Kita tengok analisi jenis alat
+[ 654.31- 655.15] (-0.47) pemesuk.
+[ 655.23- 656.15] (-0.47) Kita tengok
+[ 656.15- 657.73] (-0.47) penyelidik ke apa semua.
+[ 658.47- 659.87] (-0.47) Tiba-tiba terkena tangan.
+[ 660.21- 660.53] (-0.47) Kita tengok
+[ 661.17- 662.59] (-0.47) berapa panjang dia.
+[ 662.99- 665.11] (-0.47) Mereka perjalanan tahap kedalaman,
+[ 665.17- 666.59] (-0.47) kecemasan.
+[ 667.81- 669.43] (-0.47) Yang kedua, dimensi
+[ 669.43- 670.61] (-0.48) pencapaian. Jenis cecair mana?
+[ 671.39- 673.37] (-0.48) Berdali-dali, laluan masuk dan
+[ 673.37- 675.65] (-0.48) tanggalan volume darah yang terlibat.
+[ 675.65- 677.03] (-0.48) Kita tengok, panjang-panjangnya.
+[ 677.29- 677.75] (-0.48) Kita tengok,
+[ 678.63- 680.09] (-0.48) ini terlalu banyak dengan sikit.
+[ 681.19- 682.77] (-0.48) Setelah itu semua, mengenal
+[ 683.63- 684.87] (-0.48) setelah itu, virologi,
+[ 685.15- 686.67] (-0.48) pesakit, jika kita boleh dan
+[ 686.67- 687.95] (-0.48) dibenarkan untuk prosedur.
+[ 688.17- 689.79] (-0.48) Kita tengok setelah itu semua yang terapat,
+[ 690.25- 690.77] (-0.48) tengok pesakit apa,
+[ 693.23- 695.41] (-0.48) sebelum itu, kita masuk,
+[ 695.51- 696.21] (-0.48) sekejap lagi, kita dah tahu.
+[ 697.73- 699.07] (-0.43) Dan kemudian, terakhir sekali,
+[ 699.43- 700.37] (-0.43) adalah status masa.
+[ 701.01- 702.37] (-0.43) Kesehatan, tugas,
+[ 702.69- 704.21] (-0.43) terita entebogi, sejarah
+[ 704.21- 705.87] (-0.43) imunisasi hypotitis B,
+[ 706.67- 708.05] (-0.43) kita kena semak semua,
+[ 708.27- 709.13] (-0.43) pesakit yang ada sakit apa.
+[ 710.31- 712.69] (-0.43) Kalau pesakit itu
+[ 712.95- 714.51] (-0.43) dalam keadaan selamat,
+[ 714.81- 716.47] (-0.43) ok, tapi kita kena semak
+[ 716.47- 718.49] (-0.43) di belakang perangga.
+[ 719.29- 720.47] (-0.43) Mungkin dia akan dapat
+[ 720.47- 721.49] (-0.43) deketan bar yang lain.
+[ 721.83- 725.21] (-0.43) Kita tengok.
+[ 725.21- 727.21] (-0.28) Ok, seterusnya,
+[ 728.45- 729.47] (-0.28) proaktif
+[ 729.47- 730.79] (-0.28) selepas penyelidahan,
+[ 730.93- 731.75] (-0.28) PEP, HIV.
+[ 732.49- 733.59] (-0.28) Apa PEP?
+[ 735.25- 737.29] (-0.28) Labakan ubat antiviral,
+[ 737.33- 739.03] (-0.28) antiviral
+[ 739.03- 740.91] (-0.28) proaktif
+[ 740.91- 742.95] (-0.28) untuk mengurangkan kemungkinan
+[ 742.95- 744.67] (-0.28) jangkitan HIV selepas penyelidahan.
+[ 744.75- 746.71] (-0.28) Buka alternatif, memerlukan keputusan
+[ 746.71- 749.23] (-0.28) klinikal. Activation curve ini,
+[ 749.41- 749.69] (-0.28) dalam masa
+[ 750.73- 753.39] (-0.28) 72 jam, yaitu
+[ 753.39- 755.27] (-0.33) 22 jam hingga
+[ 755.27- 757.27] (-0.33) 28 hari ini, kita tengok
+[ 757.27- 759.15] (-0.33) dalam rawatan, disimulkan dalam masa
+[ 759.15- 761.01] (-0.33) 22 jam, seawal mungkin lah
+[ 761.01- 762.89] (-0.33) selewati-wati dalam masa tempoh
+[ 762.89- 764.35] (-0.33) 72 jam itulah.
+[ 765.29- 766.61] (-0.33) And then 28 hari itu,
+[ 766.77- 769.39] (-0.33) jika ditunjukkan
+[ 770.33- 771.09] (-0.33) kemungkinan
+[ 771.09- 772.61] (-0.33) disiukan, berjalan selama
+[ 772.61- 774.81] (-0.33) 22 jam, ini adalah
+[ 775.39- 777.07] (-0.33) tempoh rawatan.
+[ 777.29- 779.41] (-0.33) Kita tengok, dalam masa
+[ 781.05- 782.13] (-0.33) sebulan ini,
+[ 782.13- 784.13] (-0.41) kita tengok, adakah tak
+[ 784.87- 785.81] (-0.41) efek daripada
+[ 785.81- 787.39] (-0.41) penyakit pesakit itu?
+[ 787.45- 789.69] (-0.41) Ketika disibili, HP
+[ 789.69- 791.79] (-0.41) ataupun Hep C. Atau HIV.
+[ 791.95- 793.91] (-0.41) Kalau kita kena, kita kena
+[ 793.91- 795.69] (-0.41) batalkan pemeriksaan.
+[ 796.37- 797.89] (-0.41) Amaran klinikal, jangan
+[ 797.89- 799.71] (-0.41) tanggungkan perilayan. Atau pengurangan
+[ 799.71- 801.71] (-0.41) PEP semata-mata untuk mengunggu
+[ 801.71- 803.55] (-0.41) maklumat atau keputusan kujian setiap-setiap
+[ 803.55- 805.69] (-0.41) kita semua. Kita tidak boleh mengunggu
+[ 805.69- 807.89] (-0.41) maklumat semata-mata. Kita terus
+[ 807.89- 810.23] (-0.41) direct dapat
+[ 810.23- 811.17] (-0.37) rawatan.
+[ 812.11- 813.23] (-0.37) Terus ke?
+[ 818.49- 820.47] (-0.37) Aplikasi klinikal
+[ 820.47- 821.99] (-0.37) dan siapatkan terpahaman.
+[ 823.19- 824.07] (-0.37) Tidak masalah sikit.
+[ 825.85- 828.29] (-0.37) Soalan anggota perjagaan kesihatan
+[ 828.29- 829.41] (-0.37) secara tidak sengaja,
+[ 831.15- 832.19] (-0.37) terpakai
+[ 832.19- 834.49] (-0.37) semasa membersihkan soli,
+[ 834.65- 836.23] (-0.37) selepas prosedur,
+[ 836.39- 838.27] (-0.37) pengambilan sampel darah
+[ 838.27- 839.97] (-0.31) kesakit. Soalan kita,
+[ 840.25- 841.21] (-0.31) tanya soalan.
+[ 841.39- 842.57] (-0.31) Boleh tanya, Encik Sami?
+[ 845.21- 846.21] (-0.31) Soalan kita
+[ 846.21- 847.81] (-0.31) yang pertama itu, apakah
+[ 847.81- 850.31] (-0.31) tindakan pertama yang wajib
+[ 850.31- 852.27] (-0.31) dilakukan di
+[ 853.73- 854.45] (-0.31) singi?
+[ 855.31- 856.27] (-0.31) Kena lalu air.
+[ 857.21- 858.27] (-0.31) Kalau nak buka singi,
+[ 858.39- 859.87] (-0.31) kena lalu air. Kena lalu air?
+[ 861.13- 862.39] (-0.31) Kita kena berhenti
+[ 863.25- 863.97] (-0.31) prosedur.
+[ 864.65- 866.29] (-0.31) Jadi, kita berhentikan prosedur
+[ 866.29- 868.55] (-0.33) sebelum jika
+[ 868.55- 870.81] (-0.33) ada air, kita alihkan itu.
+[ 872.81- 873.49] (-0.33) Mengapakah
+[ 873.49- 875.97] (-0.33) beliau tidak patut mengicik muka tersebut secara
+[ 875.97- 876.83] (-0.33) agresif?
+[ 879.77- 880.65] (-0.33) Tidak.
+[ 880.81- 881.25] (-0.33) Tidak.
+[ 882.19- 883.71] (-0.33) Tidak terletak.
+[ 884.19- 885.33] (-0.33) Siapatkan perhatian
+[ 885.33- 886.97] (-0.33) yang perlu dimalukan
+[ 886.97- 887.73] (-0.33) dengan segala.
+[ 891.21- 892.67] (-0.33) Siapatkan perhatian yang
+[ 892.67- 894.23] (-0.33) perlu dimalukan dengan segala.
+[ 894.23- 895.65] (-0.89) Yang kedua.
+[ 895.65- 895.73] (-0.89) Tidak.
+[ 898.83- 900.27] (-0.89) Dan keempat
+[ 900.27- 901.49] (-0.89) mengapa periksaan
+[ 902.23- 904.63] (-0.89) PEP ini tak boleh ditanggutkan
+[ 904.63- 905.07] (-0.89) ke esok.
+[ 908.22- 909.82] (-0.89) Mereka ada pelik masa.
+[ 910.80- 912.54] (-0.89) Tapi kita ada masa, kita
+[ 912.54- 913.28] (-0.89) harus menanam selama 72 jam.
+[ 915.12- 916.34] (-0.89) Jika kita tak tahu, kita
+[ 916.34- 917.14] (-0.89) perlu mengatakan.
+[ 918.98- 920.94] (-0.89) Jam indah, namakan
+[ 920.94- 922.70] (-0.89) tiga jenis jenis jenis jenis jenis yang
+[ 922.70- 924.34] (-0.89) di-peroleh oleh dokter.
+[ 924.34- 926.24] (-0.60) Apa nama?
+[ 927.46- 930.30] (-0.60) H-I-B
+[ 930.30- 930.54] (-0.60) H-I-B
+[ 930.54- 931.52] (-0.60) H-I-B
+[ 932.42- 933.30] (-0.60) Baguslah
+[ 934.34- 935.00] (-0.60) Bagus
+[ 937.42- 938.30] (-0.60) Ok
+[ 938.30- 939.84] (-0.60) Ok, ini
+[ 941.76- 944.08] (-0.60) keadaan kes mereka yang ini
+[ 944.08- 945.42] (-0.60) kita juga tengoklah
+[ 945.42- 947.14] (-0.60) seorang putus asa
+[ 947.14- 949.74] (-0.60) keadaan cucuk, lalu pakaian
+[ 950.14- 952.08] (-0.60) sebab saya terpaksa mengambil air
+[ 952.08- 953.96] (-0.60) saya pun dah kesakit, yang orang tersebut
+[ 953.96- 955.68] (-0.52) tidak mempunyai peranti keselamatan
+[ 955.68- 957.36] (-0.52) ketika pun aku nak bikin
+[ 957.36- 958.60] (-0.52) rontak ni
+[ 958.60- 961.24] (-0.52) dan nasi dan tindakan
+[ 961.24- 963.12] (-0.52) tindakan serta-merta, lalu
+[ 963.12- 965.54] (-0.52) bawah air mengadit dan pincit
+[ 968.58- 969.86] (-0.52) pangkat segera kepada penyeliat
+[ 969.86- 971.62] (-0.52) atau yokek
+[ 971.62- 974.22] (-0.52) dan lalu pakaian masa
+[ 975.40- 976.50] (-0.52) keritikal, iaitu
+[ 976.50- 978.38] (-0.52) kenapa kita tak boleh mempunyai status pesakit
+[ 978.38- 980.72] (-0.52) H-I-B mempunyai hak masa
+[ 980.72- 982.46] (-0.52) maksimum 22 jam
+[ 983.00- 984.98] (-0.52) untuk supaya
+[ 984.98- 985.92] (-0.32) dia berkesalah
+[ 991.17- 993.37] (-0.32) Ok, di sini kita akan buat
+[ 993.37- 994.79] (-0.32) pembusahan keselamatan
+[ 994.79- 997.33] (-0.32) yaitu, yang pertama kita cegah
+[ 998.23-1000.07] (-0.32) kita cegah
+[1000.07-1001.99] (-0.32) amalkan teknik kerja yang selamat
+[1001.99-1004.01] (-0.32) dan pembusahan benda tajam yang betul
+[1004.01-1004.93] (-0.32) pada setiap masa
+[1005.84-1006.99] (-0.32) Yang kedua,
+[1007.41-1009.35] (-0.32) lapor-laporkan setiap kecebalan
+[1009.35-1011.07] (-0.32) atau penyelahan kepada penyeliat
+[1011.07-1013.27] (-0.32) tanpa rasa takut
+[1013.27-1014.93] (-0.32) atau lemakkan
+[1014.93-1015.97] (-0.32) Terus lapor
+[1043.46-1051.06] (-0.52) Ia adalah
+[1051.06-1053.80] (-0.52) rujukan pertama yang saya dapat
+[1061.64-1063.82] (-0.52) control, bahagian sinar, kesiapan
+[1063.82-1065.28] (-0.52) dan kesempatan bekerjaan
+[1065.28-1067.22] (-0.52) dan daripada
+[1067.22-1069.64] (-0.52) US Public Hacks Service and Guidelines
+[1069.64-1070.94] (-0.52) dan ini adalah
+[1070.94-1073.62] (-0.52) Center for Public Control and Prevention
+[1074.56-1076.36] (-0.52) pada tahun 2004
+[1077.34-1079.22] (-0.52) Di sini, saya nak cuba sikit
+[1079.22-1087.79] (-0.52) ini dah ada sistem
+[1087.79-1088.43] (-0.52) selamat datang
+[1088.43-1093.80] (-0.52) kita dah ambil larak
+[1094.82-1095.66] (-0.47) kemudian
+[1095.66-1097.68] (-0.47) sebelum kita makan
+[1097.68-1102.42] (-0.47) pakai kira-kira
+[1103.26-1104.00] (-0.47) contoh
+[1104.94-1106.84] (-0.47) yang kita praktikkan sikit
+[1114.23-1114.79] (-0.47) terlebih dahulu
+[1114.79-1127.07] (-0.47) kita dah ambil larak passion
+[1127.07-1129.37] (-0.47) kita dah ambil larak passion
+[1131.07-1132.27] (-0.47) kita dah ambil
+[1132.27-1133.59] (-0.47) kita nak reket balik
+[1133.59-1134.61] (-0.47) boleh ke tak boleh?
+[1135.15-1136.97] (-0.47) kan? tak boleh kan?
+[1137.09-1138.13] (-0.47) jangan reket balik
+[1144.02-1146.04] (-0.47) kita dah tengok tempat
+[1160.47-1162.67] (-0.44) ok, tadi kira-kira panjang dulu
+[1162.67-1163.73] (-0.44) nanti kira-kira putih
+[1164.91-1166.39] (-0.44) kira-kira buat semua
+[1166.39-1170.18] (-0.44) kira-kira satu poin
+[1170.18-1171.16] (-0.44) kira-kira
+[1171.16-1174.46] (-0.44) dia boleh faham kan?
+[1175.72-1176.68] (-0.44) kira-kira pakai
+[1176.68-1178.44] (-0.44) 7 jarum dekat tempat
+[1178.44-1180.04] (-0.44) terus cuba kembalikan dia
+[1180.04-1181.80] (-0.44) dan kemudian buat laporan
+[1182.74-1184.80] (-0.44) Ingat dalam masa, dalam apa hari?
+[1185.82-1186.04] (-0.44) 72
+[1186.04-1187.92] (-0.44) 72 hari
+[1187.92-1190.68] (-0.44) dan kemudian 12 jam
+[1191.78-1193.02] (-0.37) dalam masa
+[1193.02-1194.78] (-0.37) 12 jam kita akan
+[1198.01-1199.27] (-0.37) dan kemudian
+[1199.27-1201.85] (-0.37) 8 hari
+[1201.85-1203.21] (-0.37) dekat 9 bulan
+[1203.21-1205.09] (-0.37) dia faham kan?
+[1205.53-1207.03] (-0.37) ok, saya rasa
+[1207.03-1209.03] (-0.37) kalau saya hampir
+[1209.03-1210.59] (-0.37) dekatnya jatuh
+[1210.59-1212.27] (-0.37) ada tuharan pertanyaan
+[1212.27-1214.81] (-0.37) boleh tanya
+[1214.81-1216.93] (-0.37) boleh jumpa di luar
+[1216.93-1219.03] (-0.37) dan sekian, terima kasih
+[1219.65-1222.17] (-0.37) Assalamualaikum warahmatullahi wabarakatuh
